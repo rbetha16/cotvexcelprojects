@@ -1,0 +1,441 @@
+NewCode,NewCodeDesc,SameSimCode,CPTDesc,Accuracy,Comments
+Q4211,"Amnion bio or Axobiomembrane, per square centimeter",Q4161,"BIO-CONNEKT WOUND MATRIX, PER SQUARE CENTIMETER",54.65857232,Present in Autoproposal
+Q4211,"Amnion bio or Axobiomembrane, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",39.91901106,Present in Autoproposal
+Q4211,"Amnion bio or Axobiomembrane, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",39.07614138,Present in Autoproposal
+Q4211,"Amnion bio or Axobiomembrane, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",38.70268195,Present in Autoproposal
+Q4211,"Amnion bio or Axobiomembrane, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",38.70268195,Present in Autoproposal
+Q4211,"Amnion bio or Axobiomembrane, per square centimeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",38.25050917,Present in Autoproposal
+Q4211,"Amnion bio or Axobiomembrane, per square centimeter",Q4106,"DERMAGRAFT, PER SQUARE CENTIMETER",37.67577865,Present in Autoproposal
+Q4211,"Amnion bio or Axobiomembrane, per square centimeter",Q4182,"TRANSCYTE, PER SQUARE CENTIMETER",37.67577865,Present in Autoproposal
+Q4211,"Amnion bio or Axobiomembrane, per square centimeter",Q4110,"PRIMATRIX, PER SQUARE CENTIMETER",37.67577865,Present in Autoproposal
+Q4211,"Amnion bio or Axobiomembrane, per square centimeter",Q4140,"BIODFENCE, PER SQUARE CENTIMETER",37.67577865,Present in Autoproposal
+J3031,"Injection, fremanezumab-vfrm, 1 mg (code may be used for Medicare when drug administered under the direct supervision of a physician, not for use when drug is self-administered)",J0129,"INJECTION, ABATACEPT, 10 MG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",82.70163892,Present in Autoproposal
+J3031,"Injection, fremanezumab-vfrm, 1 mg (code may be used for Medicare when drug administered under the direct supervision of a physician, not for use when drug is self-administered)",J1438,"INJECTION, ETANERCEPT, 25 MG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",81.97803276,Present in Autoproposal
+J3031,"Injection, fremanezumab-vfrm, 1 mg (code may be used for Medicare when drug administered under the direct supervision of a physician, not for use when drug is self-administered)",J0717,"INJECTION, CERTOLIZUMAB PEGOL, 1 MG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",80.1379812,Present in Autoproposal
+J3031,"Injection, fremanezumab-vfrm, 1 mg (code may be used for Medicare when drug administered under the direct supervision of a physician, not for use when drug is self-administered)",J3030,"INJECTION, SUMATRIPTAN SUCCINATE, 6 MG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",79.89189016,Present in Autoproposal
+J3031,"Injection, fremanezumab-vfrm, 1 mg (code may be used for Medicare when drug administered under the direct supervision of a physician, not for use when drug is self-administered)",J0270,"INJECTION, ALPROSTADIL, 1.25 MCG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",79.1758345,Present in Autoproposal
+J3031,"Injection, fremanezumab-vfrm, 1 mg (code may be used for Medicare when drug administered under the direct supervision of a physician, not for use when drug is self-administered)",J1830,"INJECTION, INTERFERON BETA-1B, 0.25 MG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",77.9795545,Present in Autoproposal
+J3031,"Injection, fremanezumab-vfrm, 1 mg (code may be used for Medicare when drug administered under the direct supervision of a physician, not for use when drug is self-administered)",J0275,"ALPROSTADIL URETHRAL SUPPOSITORY (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",76.37170773,Present in Autoproposal
+J3031,"Injection, fremanezumab-vfrm, 1 mg (code may be used for Medicare when drug administered under the direct supervision of a physician, not for use when drug is self-administered)",C9040,"Injection, fremanezumab-vfrm, 1mg",40.10892771,Present in Autoproposal
+J3031,"Injection, fremanezumab-vfrm, 1 mg (code may be used for Medicare when drug administered under the direct supervision of a physician, not for use when drug is self-administered)",A4211,SUPPLIES FOR SELF-ADMINISTERED INJECTIONS,30.56100245,Present in Autoproposal
+J3031,"Injection, fremanezumab-vfrm, 1 mg (code may be used for Medicare when drug administered under the direct supervision of a physician, not for use when drug is self-administered)",G9450,HISTORY OF INJECTION DRUG USE,30.36142915,Present in Autoproposal
+J2798,"Injection, risperidone, (perseris), 0.5 mg",C9037,"INJECTION, RISPERIDONE (PERSERIS), 0.5 MG",100,Present in Autoproposal
+J2798,"Injection, risperidone, (perseris), 0.5 mg",C9125,"INJECTION, RISPERIDONE, PER 12.5 MG",61.95243074,Present in Autoproposal
+J2798,"Injection, risperidone, (perseris), 0.5 mg",J2794,"INJECTION, RISPERIDONE, LONG ACTING, 0.5 MG",52.52737138,Present in Autoproposal
+J2798,"Injection, risperidone, (perseris), 0.5 mg",S0163,"INJECTION, RISPERIDONE, LONG ACTING, 12.5 MG",49.20724113,Present in Autoproposal
+J2798,"Injection, risperidone, (perseris), 0.5 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",19.56604488,Present in Autoproposal
+J2798,"Injection, risperidone, (perseris), 0.5 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",19.56604488,Present in Autoproposal
+J2798,"Injection, risperidone, (perseris), 0.5 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",19.56604488,Present in Autoproposal
+J2798,"Injection, risperidone, (perseris), 0.5 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",19.56604488,Present in Autoproposal
+J2798,"Injection, risperidone, (perseris), 0.5 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",19.56604488,Present in Autoproposal
+J2798,"Injection, risperidone, (perseris), 0.5 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",19.33082957,Present in Autoproposal
+J0121,"Injection, omadacycline, 1 mg",C9051,"Injection, omadacycline, 1 mg",100,Present in Autoproposal
+J0121,"Injection, omadacycline, 1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",25.07661155,Present in Autoproposal
+J0121,"Injection, omadacycline, 1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",25.07661155,Present in Autoproposal
+J0121,"Injection, omadacycline, 1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",25.07661155,Present in Autoproposal
+J0121,"Injection, omadacycline, 1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",25.07661155,Present in Autoproposal
+J0121,"Injection, omadacycline, 1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",25.07661155,Present in Autoproposal
+J0121,"Injection, omadacycline, 1 mg",C9261,"INJECTION, USTEKINUMAB, 1 MG",24.77515037,Present in Autoproposal
+J0121,"Injection, omadacycline, 1 mg",J0178,"INJECTION, AFLIBERCEPT, 1 MG",24.77515037,Present in Autoproposal
+J0121,"Injection, omadacycline, 1 mg",J1325,"INJECTION, EPOPROSTENOL, 0.5 MG",24.77515037,Present in Autoproposal
+J0121,"Injection, omadacycline, 1 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",24.77515037,Present in Autoproposal
+J7331,"Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg",J7318,"HYALURONAN OR DERIVATIVE, DUROLANE, FOR INTRA-ARTICULAR INJECTION, 1 MG",85.34453437,Present in Autoproposal
+J7331,"Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg",J7322,"HYALURONAN OR DERIVATIVE, HYMOVIS, FOR INTRA-ARTICULAR INJECTION, 1 MG",85.34453437,Present in Autoproposal
+J7331,"Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg",C9471,"HYALURONAN OR DERIVATIVE, HYMOVIS, FOR INTRA-ARTICULAR INJECTION, 1 MG",85.34453437,Present in Autoproposal
+J7331,"Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg",J7329,"HYALURONAN OR DERIVATIVE, TRIVISC, FOR INTRA-ARTICULAR INJECTION, 1 MG",84.40527401,Present in Autoproposal
+J7331,"Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg",J7328,"HYALURONAN OR DERIVATIVE, GELSYN-3, FOR INTRA-ARTICULAR INJECTION, 0.1 MG",84.40527401,Present in Autoproposal
+J7331,"Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg",J7326,"HYALURONAN OR DERIVATIVE, GEL-ONE, FOR INTRA-ARTICULAR INJECTION, PER DOSE",78.91705539,Present in Autoproposal
+J7331,"Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg",Q4084,"HYALURONAN OR DERIVATIVE, SYNVISC, FOR INTRA-ARTICULAR INJECTION, PER DOSE",76.82689749,Present in Autoproposal
+J7331,"Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg",Q4085,"HYALURONAN OR DERIVATIVE, EUFLEXXA, FOR INTRA-ARTICULAR INJECTION, PER DOSE",76.82689749,Present in Autoproposal
+J7331,"Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg",J7323,"HYALURONAN OR DERIVATIVE, EUFLEXXA, FOR INTRA-ARTICULAR INJECTION, PER DOSE",76.82689749,Present in Autoproposal
+J7331,"Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg",C9465,"HYALURONAN OR DERIVATIVE, DUROLANE, FOR INTRA-ARTICULAR INJECTION, PER DOSE",76.82689749,Present in Autoproposal
+J7314,"Injection, fluocinolone acetonide, intravitreal implant (Yutiq), 0.01 mg",C9450,"INJECTION, FLUOCINOLONE ACETONIDE INTRAVITREAL IMPLANT, 0.01 MG",100,Present in Autoproposal
+J7314,"Injection, fluocinolone acetonide, intravitreal implant (Yutiq), 0.01 mg",J7313,"INJECTION, FLUOCINOLONE ACETONIDE, INTRAVITREAL IMPLANT, 0.01 MG",100,Present in Autoproposal
+J7314,"Injection, fluocinolone acetonide, intravitreal implant (Yutiq), 0.01 mg",J7311,"FLUOCINOLONE ACETONIDE, INTRAVITREAL IMPLANT",86.61345768,Present in Autoproposal
+J7314,"Injection, fluocinolone acetonide, intravitreal implant (Yutiq), 0.01 mg",C9225,"INJECTION, FLUOCINOLONE  ACETONIDE INTRAVITREAL IMPLANT, PER 0.59 MG",79.4994328,Present in Autoproposal
+J7314,"Injection, fluocinolone acetonide, intravitreal implant (Yutiq), 0.01 mg",J7312,"INJECTION, DEXAMETHASONE, INTRAVITREAL IMPLANT, 0.1 MG",50.87141116,Present in Autoproposal
+J7314,"Injection, fluocinolone acetonide, intravitreal implant (Yutiq), 0.01 mg",C9256,"INJECTION, DEXAMETHASONE INTRAVITREAL IMPLANT, 0.1 MG",50.87141116,Present in Autoproposal
+J7314,"Injection, fluocinolone acetonide, intravitreal implant (Yutiq), 0.01 mg",J3300,"INJECTION, TRIAMCINOLONE ACETONIDE, PRESERVATIVE FREE, 1 MG",33.98224734,Present in Autoproposal
+J7314,"Injection, fluocinolone acetonide, intravitreal implant (Yutiq), 0.01 mg",J3301,"INJECTION, TRIAMCINOLONE ACETONIDE, NOT OTHERWISE SPECIFIED, 10 MG",33.20088725,Present in Autoproposal
+J7314,"Injection, fluocinolone acetonide, intravitreal implant (Yutiq), 0.01 mg",67028,Intravitreal injection of a pharmacologic agent (separate procedure),33.19725128,Present in Autoproposal
+J7314,"Injection, fluocinolone acetonide, intravitreal implant (Yutiq), 0.01 mg",J0461,"INJECTION, ATROPINE SULFATE, 0.01 MG",31.85290973,Present in Autoproposal
+Q4208,"Novafix, per square cenitmeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",53.66819201,Present in Autoproposal
+Q4208,"Novafix, per square cenitmeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",52.53501535,Present in Autoproposal
+Q4208,"Novafix, per square cenitmeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",52.03292645,Present in Autoproposal
+Q4208,"Novafix, per square cenitmeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",52.03292645,Present in Autoproposal
+Q4208,"Novafix, per square cenitmeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",51.4250132,Present in Autoproposal
+Q4208,"Novafix, per square cenitmeter",Q4106,"DERMAGRAFT, PER SQUARE CENTIMETER",50.65233003,Present in Autoproposal
+Q4208,"Novafix, per square cenitmeter",Q4182,"TRANSCYTE, PER SQUARE CENTIMETER",50.65233003,Present in Autoproposal
+Q4208,"Novafix, per square cenitmeter",Q4191,"RESTORIGIN, PER SQUARE CENTIMETER",50.65233003,Present in Autoproposal
+Q4208,"Novafix, per square cenitmeter",Q4140,"BIODFENCE, PER SQUARE CENTIMETER",50.65233003,Present in Autoproposal
+Q4208,"Novafix, per square cenitmeter",Q4184,"CELLESTA, PER SQUARE CENTIMETER",50.65233003,Present in Autoproposal
+Q4209,"Surgraft, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",72.78725426,Present in Autoproposal
+Q4209,"Surgraft, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",71.25038829,Present in Autoproposal
+Q4209,"Surgraft, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",70.56943239,Present in Autoproposal
+Q4209,"Surgraft, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",70.56943239,Present in Autoproposal
+Q4209,"Surgraft, per square centimeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",69.74495266,Present in Autoproposal
+Q4209,"Surgraft, per square centimeter",Q4110,"PRIMATRIX, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4209,"Surgraft, per square centimeter",Q4107,"GRAFTJACKET, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4209,"Surgraft, per square centimeter",Q4191,"RESTORIGIN, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4209,"Surgraft, per square centimeter",Q4106,"DERMAGRAFT, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4209,"Surgraft, per square centimeter",Q4187,"EPICORD, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4205,"Membrane graft or membrane wrap, per square centimeter",Q4198,"GENESIS AMNIOTIC MEMBRANE, PER SQUARE CENTIMETER",52.76183961,Present in Autoproposal
+Q4205,"Membrane graft or membrane wrap, per square centimeter",V2790,"AMNIOTIC MEMBRANE FOR SURGICAL RECONSTRUCTION, PER PROCEDURE",37.68464542,Present in Autoproposal
+Q4205,"Membrane graft or membrane wrap, per square centimeter",E0459,CHEST WRAP,36.4358365,Present in Autoproposal
+Q4205,"Membrane graft or membrane wrap, per square centimeter",C9361,"COLLAGEN MATRIX NERVE WRAP (NEUROMEND COLLAGEN NERVE WRAP), PER 0.5 CENTIMETER LENGTH",35.84715175,Present in Autoproposal
+Q4205,"Membrane graft or membrane wrap, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",35.42900401,Present in Autoproposal
+Q4205,"Membrane graft or membrane wrap, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",34.68093856,Present in Autoproposal
+Q4205,"Membrane graft or membrane wrap, per square centimeter",68325,Conjunctivoplasty; with buccal mucous membrane graft (includes obtaining graft),34.56012005,Present in Autoproposal
+Q4205,"Membrane graft or membrane wrap, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",34.34948507,Present in Autoproposal
+Q4205,"Membrane graft or membrane wrap, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",34.34948507,Present in Autoproposal
+Q4205,"Membrane graft or membrane wrap, per square centimeter",94725,Membrane diffusion capacity,34.12268765,Present in Autoproposal
+Q4206,"Fluid flow or fluid GF, 1 cc",89050,"Cell count, miscellaneous body fluids (eg, cerebrospinal fluid, joint fluid), except blood",42.50371063,Present in Autoproposal
+Q4206,"Fluid flow or fluid GF, 1 cc",84157,"Protein, total, except by refractometry; other source (eg, synovial fluid, cerebrospinal fluid)",42.02442247,Present in Autoproposal
+Q4206,"Fluid flow or fluid GF, 1 cc",78645,"Cerebrospinal fluid flow, imaging (not including introduction of material); shunt evaluation",40.76305806,Present in Autoproposal
+Q4206,"Fluid flow or fluid GF, 1 cc",78635,"Cerebrospinal fluid flow, imaging (not including introduction of material); ventriculography",40.69986144,Present in Autoproposal
+Q4206,"Fluid flow or fluid GF, 1 cc",Q4162,"WOUNDEX FLOW, BIOSKIN FLOW, 0.5 CC",40.55099035,Present in Autoproposal
+Q4206,"Fluid flow or fluid GF, 1 cc",78630,"Cerebrospinal fluid flow, imaging (not including introduction of material); cisternography",39.32436494,Present in Autoproposal
+Q4206,"Fluid flow or fluid GF, 1 cc",78647,"Cerebrospinal fluid flow, imaging (not including introduction of material); tomographic (SPECT)",38.39371278,Present in Autoproposal
+Q4206,"Fluid flow or fluid GF, 1 cc",82945,"Glucose, body fluid, other than blood",37.89210231,Present in Autoproposal
+Q4206,"Fluid flow or fluid GF, 1 cc",89051,"Cell count, miscellaneous body fluids (eg, cerebrospinal fluid, joint fluid), except blood; with differential count",36.25930119,Present in Autoproposal
+Q4206,"Fluid flow or fluid GF, 1 cc",84485,Trypsin; duodenal fluid,35.73105832,Present in Autoproposal
+Q4220,"BellaCell HD or Surederm, per square centimeter",Q4128,"FLEX HD, ALLOPATCH HD, OR MATRIX HD, PER SQUARE CENTIMETER",81.84621829,Present in Autoproposal
+Q4220,"BellaCell HD or Surederm, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",48.32209182,Present in Autoproposal
+Q4220,"BellaCell HD or Surederm, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",47.30179535,Present in Autoproposal
+Q4220,"BellaCell HD or Surederm, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",46.84972151,Present in Autoproposal
+Q4220,"BellaCell HD or Surederm, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",46.84972151,Present in Autoproposal
+Q4220,"BellaCell HD or Surederm, per square centimeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",46.30236489,Present in Autoproposal
+Q4220,"BellaCell HD or Surederm, per square centimeter",Q4106,"DERMAGRAFT, PER SQUARE CENTIMETER",45.60665174,Present in Autoproposal
+Q4220,"BellaCell HD or Surederm, per square centimeter",Q4182,"TRANSCYTE, PER SQUARE CENTIMETER",45.60665174,Present in Autoproposal
+Q4220,"BellaCell HD or Surederm, per square centimeter",Q4184,"CELLESTA, PER SQUARE CENTIMETER",45.60665174,Present in Autoproposal
+Q4220,"BellaCell HD or Surederm, per square centimeter",Q4110,"PRIMATRIX, PER SQUARE CENTIMETER",45.60665174,Present in Autoproposal
+J0593,"Injection, lanadelumab-flyo, 1 mg (code may be used for Medicare when drug administered under direct supervision of a physician, not for use when drug is self-administered)",J0129,"INJECTION, ABATACEPT, 10 MG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",92.27516765,Present in Autoproposal
+J0593,"Injection, lanadelumab-flyo, 1 mg (code may be used for Medicare when drug administered under direct supervision of a physician, not for use when drug is self-administered)",J1438,"INJECTION, ETANERCEPT, 25 MG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",91.46779696,Present in Autoproposal
+J0593,"Injection, lanadelumab-flyo, 1 mg (code may be used for Medicare when drug administered under direct supervision of a physician, not for use when drug is self-administered)",J0717,"INJECTION, CERTOLIZUMAB PEGOL, 1 MG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",89.41474132,Present in Autoproposal
+J0593,"Injection, lanadelumab-flyo, 1 mg (code may be used for Medicare when drug administered under direct supervision of a physician, not for use when drug is self-administered)",J3030,"INJECTION, SUMATRIPTAN SUCCINATE, 6 MG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",89.14016282,Present in Autoproposal
+J0593,"Injection, lanadelumab-flyo, 1 mg (code may be used for Medicare when drug administered under direct supervision of a physician, not for use when drug is self-administered)",J0270,"INJECTION, ALPROSTADIL, 1.25 MCG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",88.31036425,Present in Autoproposal
+J0593,"Injection, lanadelumab-flyo, 1 mg (code may be used for Medicare when drug administered under direct supervision of a physician, not for use when drug is self-administered)",J1830,"INJECTION, INTERFERON BETA-1B, 0.25 MG (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",87.00645548,Present in Autoproposal
+J0593,"Injection, lanadelumab-flyo, 1 mg (code may be used for Medicare when drug administered under direct supervision of a physician, not for use when drug is self-administered)",J0275,"ALPROSTADIL URETHRAL SUPPOSITORY (CODE MAY BE USED FOR MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A PHYSICIAN, NOT FOR USE WHEN DRUG IS SELF ADMINISTERED)",85.15666201,Present in Autoproposal
+J0593,"Injection, lanadelumab-flyo, 1 mg (code may be used for Medicare when drug administered under direct supervision of a physician, not for use when drug is self-administered)",A4211,SUPPLIES FOR SELF-ADMINISTERED INJECTIONS,34.64765683,Present in Autoproposal
+J0593,"Injection, lanadelumab-flyo, 1 mg (code may be used for Medicare when drug administered under direct supervision of a physician, not for use when drug is self-administered)",G9450,HISTORY OF INJECTION DRUG USE,34.42139634,Present in Autoproposal
+J0593,"Injection, lanadelumab-flyo, 1 mg (code may be used for Medicare when drug administered under direct supervision of a physician, not for use when drug is self-administered)",G9518,DOCUMENTATION OF ACTIVE INJECTION DRUG USE,28.86074832,Present in Autoproposal
+Q4210,"Axolotl graft or axolotl dualgraft, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",63.55706624,Present in Autoproposal
+Q4210,"Axolotl graft or axolotl dualgraft, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",62.21509102,Present in Autoproposal
+Q4210,"Axolotl graft or axolotl dualgraft, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",61.62048747,Present in Autoproposal
+Q4210,"Axolotl graft or axolotl dualgraft, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",61.62048747,Present in Autoproposal
+Q4210,"Axolotl graft or axolotl dualgraft, per square centimeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",60.90056042,Present in Autoproposal
+Q4210,"Axolotl graft or axolotl dualgraft, per square centimeter",Q4182,"TRANSCYTE, PER SQUARE CENTIMETER",59.98550305,Present in Autoproposal
+Q4210,"Axolotl graft or axolotl dualgraft, per square centimeter",Q4106,"DERMAGRAFT, PER SQUARE CENTIMETER",59.98550305,Present in Autoproposal
+Q4210,"Axolotl graft or axolotl dualgraft, per square centimeter",Q4184,"CELLESTA, PER SQUARE CENTIMETER",59.98550305,Present in Autoproposal
+Q4210,"Axolotl graft or axolotl dualgraft, per square centimeter",Q4187,"EPICORD, PER SQUARE CENTIMETER",59.98550305,Present in Autoproposal
+Q4210,"Axolotl graft or axolotl dualgraft, per square centimeter",Q4110,"PRIMATRIX, PER SQUARE CENTIMETER",59.98550305,Present in Autoproposal
+J9313,"Injection, moxetumomab pasudotox-tdfk, 0.01 mg",C9045,"Injection, moxetumomab pasudotox-tdfk, 0.01 mg",100,Present in Autoproposal
+J9313,"Injection, moxetumomab pasudotox-tdfk, 0.01 mg",J0461,"INJECTION, ATROPINE SULFATE, 0.01 MG",30.06726174,Present in Autoproposal
+J9313,"Injection, moxetumomab pasudotox-tdfk, 0.01 mg",C9297,"INJECTION, OMACETAXINE MEPESUCCINATE, 0.01 MG",26.57751185,Present in Autoproposal
+J9313,"Injection, moxetumomab pasudotox-tdfk, 0.01 mg",J9262,"INJECTION, OMACETAXINE MEPESUCCINATE, 0.01 MG",26.57751185,Present in Autoproposal
+J9313,"Injection, moxetumomab pasudotox-tdfk, 0.01 mg",J0775,"INJECTION, COLLAGENASE, CLOSTRIDIUM HISTOLYTICUM, 0.01 MG",24.06469459,Present in Autoproposal
+J9313,"Injection, moxetumomab pasudotox-tdfk, 0.01 mg",J7313,"INJECTION, FLUOCINOLONE ACETONIDE, INTRAVITREAL IMPLANT, 0.01 MG",23.5806701,Present in Autoproposal
+J9313,"Injection, moxetumomab pasudotox-tdfk, 0.01 mg",C9450,"INJECTION, FLUOCINOLONE ACETONIDE INTRAVITREAL IMPLANT, 0.01 MG",23.5806701,Present in Autoproposal
+J9313,"Injection, moxetumomab pasudotox-tdfk, 0.01 mg",C1358,"PACEMAKER, DUAL CHAMBER, NON-RATE RESPONSIVE, AFFINITY DC 5230R, AFFINITY DC 5230 NOTE: MODEL 5230 IS EFFECTIVE 01/01/01.  MODEL 5230R WAS EFFECTIVE 08/01/00.",20.59422246,Present in Autoproposal
+J9313,"Injection, moxetumomab pasudotox-tdfk, 0.01 mg",C1149,"PACEMAKER, DUAL CHAMBER, NON-RATE RESPONSIVE, ENTITY DC 5226R, ENTITY DC 5226 NOTE: MODEL 5226 IS EFFECTIVE 01/01/01.  MODEL 5226R WAS EFFECTIVE 08/01/00.",20.34549411,Present in Autoproposal
+J9313,"Injection, moxetumomab pasudotox-tdfk, 0.01 mg",S0157,"BECAPLERMIN GEL 0.01%, 0.5 GM",17.64679274,Present in Autoproposal
+Q4215,"Axolotl ambient or axolotl cryo, 0.1 mg",42160,"Destruction of lesion, palate or uvula (thermal, cryo or chemical)",46.36867358,Present in Autoproposal
+Q4215,"Axolotl ambient or axolotl cryo, 0.1 mg",40820,"Destruction of lesion or scar of vestibule of mouth by physical methods (eg, laser, thermal, cryo, chemical)",35.63968622,Present in Autoproposal
+Q4215,"Axolotl ambient or axolotl cryo, 0.1 mg",Q9978,NETUPITANT 300 MG AND PALONOSETRON 0.5 MG,18.09510994,Present in Autoproposal
+Q4215,"Axolotl ambient or axolotl cryo, 0.1 mg",J3240,"INJECTION, THYROTROPIN ALPHA, 0.9 MG, PROVIDED IN 1.1 MG VIAL",17.47131633,Present in Autoproposal
+Q4215,"Axolotl ambient or axolotl cryo, 0.1 mg",J8655,"NETUPITANT 300 MG AND PALONOSETRON 0.5 MG, ORAL",17.15226426,Present in Autoproposal
+Q4215,"Axolotl ambient or axolotl cryo, 0.1 mg",C9448,"NETUPITANT 300 MG AND PALONOSETRON 0.5 MG, ORAL",17.15226426,Present in Autoproposal
+Q4215,"Axolotl ambient or axolotl cryo, 0.1 mg",C9452,"INJECTION, CEFTOLOZANE 50 MG AND TAZOBACTAM 25 MG",16.57671706,Present in Autoproposal
+Q4215,"Axolotl ambient or axolotl cryo, 0.1 mg",J0695,"INJECTION, CEFTOLOZANE 50 MG AND TAZOBACTAM 25 MG",16.57671706,Present in Autoproposal
+Q4215,"Axolotl ambient or axolotl cryo, 0.1 mg",J1454,"INJECTION, FOSNETUPITANT 235 MG AND PALONOSETRON 0.25 MG",15.51420436,Present in Autoproposal
+Q4215,"Axolotl ambient or axolotl cryo, 0.1 mg",C9033,"INJECTION, FOSNETUPITANT 235 MG AND PALONOSETRON 0.25 MG",15.51420436,Present in Autoproposal
+J1096,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",C9048,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",100,Present in Autoproposal
+J1096,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",J8540,"DEXAMETHASONE, ORAL, 0.25 MG",43.16337114,Present in Autoproposal
+J1096,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",J1094,"INJECTION, DEXAMETHASONE ACETATE, 1 MG",42.84319292,Present in Autoproposal
+J1096,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",J7315,"MITOMYCIN, OPHTHALMIC, 0.2 MG",39.39384954,Present in Autoproposal
+J1096,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",J1100,"INJECTION, DEXAMETHASONE SODIUM PHOSPHATE, 1 MG",38.39774104,Present in Autoproposal
+J1096,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",C9256,"INJECTION, DEXAMETHASONE INTRAVITREAL IMPLANT, 0.1 MG",37.02952439,Present in Autoproposal
+J1096,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",J7312,"INJECTION, DEXAMETHASONE, INTRAVITREAL IMPLANT, 0.1 MG",37.02952439,Present in Autoproposal
+J1096,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",68899,"Unlisted procedure, lacrimal system",33.51455847,Present in Autoproposal
+J1096,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",C9034,"INJECTION, DEXAMETHASONE 9%, INTRAOCULAR, 1 MCG",31.85519888,Present in Autoproposal
+J1096,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",68510,Biopsy of lacrimal gland,31.73113239,Present in Autoproposal
+Q4216,"Artacent cord, per square centimeter",Q4169,"ARTACENT WOUND, PER SQUARE CENTIMETER",82.42175147,Present in Autoproposal
+Q4216,"Artacent cord, per square centimeter",Q4190,"ARTACENT AC, PER SQUARE CENTIMETER",74.72222377,Present in Autoproposal
+Q4216,"Artacent cord, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",45.77693724,Present in Autoproposal
+Q4216,"Artacent cord, per square centimeter",Q4189,"ARTACENT AC, 1 MG",44.88877518,Present in Autoproposal
+Q4216,"Artacent cord, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",44.81038043,Present in Autoproposal
+Q4216,"Artacent cord, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",44.38211759,Present in Autoproposal
+Q4216,"Artacent cord, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",44.38211759,Present in Autoproposal
+Q4216,"Artacent cord, per square centimeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",43.86359059,Present in Autoproposal
+Q4216,"Artacent cord, per square centimeter",Q4182,"TRANSCYTE, PER SQUARE CENTIMETER",43.20452108,Present in Autoproposal
+Q4216,"Artacent cord, per square centimeter",Q4106,"DERMAGRAFT, PER SQUARE CENTIMETER",43.20452108,Present in Autoproposal
+J1097,"phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution, 1 ml",C9447,"INJECTION, PHENYLEPHRINE AND KETOROLAC, 4 ML VIAL",58.70394781,Present in Autoproposal
+J1097,"phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution, 1 ml",J2370,"INJECTION, PHENYLEPHRINE HCL, UP TO 1 ML",44.87333172,Present in Autoproposal
+J1097,"phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution, 1 ml",C9110,"INJECTION, ALEMTUZUMAB, PER 10 MG/ ML",39.8980506,Present in Autoproposal
+J1097,"phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution, 1 ml",J3265,"INJECTION, TORSEMIDE, 10 MG/ML",39.12369038,Present in Autoproposal
+J1097,"phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution, 1 ml",A4319,"STERILE WATER IRRIGATION SOLUTION, 1000 ML",38.74103441,Present in Autoproposal
+J1097,"phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution, 1 ml",A4323,"STERILE SALINE IRRIGATION SOLUTION, 1000 ML.",38.41616903,Present in Autoproposal
+J1097,"phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution, 1 ml",J2787,"Riboflavin 5'-phosphate, ophthalmic solution, up to 3 mL",38.10143637,Present in Autoproposal
+J1097,"phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution, 1 ml",C9106,"SIROLIMUS, PER 1 MG/ML",37.30236796,Present in Autoproposal
+J1097,"phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution, 1 ml",J2513,"INJECTION, PENTASTARCH, 10% SOLUTION, 100 ML",35.75493321,Present in Autoproposal
+J1097,"phenylephrine 10.16 mg/ml and ketorolac 2.88 mg/ml ophthalmic irrigation solution, 1 ml",Q9964,"HIGH OSMOLAR CONTRAST MATERIAL, 400 OR GREATER MG/ML IODINE CONCENTRATION, PER ML",35.154635,Present in Autoproposal
+J0291,"Injection, plazomicin, 5 mg",C9039,"INJECTION, PLAZOMICIN, 5 MG",100,Present in Autoproposal
+J0291,"Injection, plazomicin, 5 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",25.07661155,Present in Autoproposal
+J0291,"Injection, plazomicin, 5 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",25.07661155,Present in Autoproposal
+J0291,"Injection, plazomicin, 5 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",25.07661155,Present in Autoproposal
+J0291,"Injection, plazomicin, 5 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",25.07661155,Present in Autoproposal
+J0291,"Injection, plazomicin, 5 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",25.07661155,Present in Autoproposal
+J0291,"Injection, plazomicin, 5 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",24.77515037,Present in Autoproposal
+J0291,"Injection, plazomicin, 5 mg",J3396,"INJECTION, VERTEPORFIN, 0.1 MG",24.77515037,Present in Autoproposal
+J0291,"Injection, plazomicin, 5 mg",C9261,"INJECTION, USTEKINUMAB, 1 MG",24.77515037,Present in Autoproposal
+J0291,"Injection, plazomicin, 5 mg",J1325,"INJECTION, EPOPROSTENOL, 0.5 MG",24.77515037,Present in Autoproposal
+Q4222,"Progenamatrix, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",72.78725426,Present in Autoproposal
+Q4222,"Progenamatrix, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",71.25038829,Present in Autoproposal
+Q4222,"Progenamatrix, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",70.56943239,Present in Autoproposal
+Q4222,"Progenamatrix, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",70.56943239,Present in Autoproposal
+Q4222,"Progenamatrix, per square centimeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",69.74495266,Present in Autoproposal
+Q4222,"Progenamatrix, per square centimeter",Q4110,"PRIMATRIX, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4222,"Progenamatrix, per square centimeter",Q4107,"GRAFTJACKET, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4222,"Progenamatrix, per square centimeter",Q4191,"RESTORIGIN, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4222,"Progenamatrix, per square centimeter",Q4106,"DERMAGRAFT, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4222,"Progenamatrix, per square centimeter",Q4187,"EPICORD, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+J0222,"Injection, Patisiran, 0.1 mg",C9036,"INJECTION, PATISIRAN, 0.1 MG",100,Present in Autoproposal
+J0222,"Injection, Patisiran, 0.1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",25.07661155,Present in Autoproposal
+J0222,"Injection, Patisiran, 0.1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",25.07661155,Present in Autoproposal
+J0222,"Injection, Patisiran, 0.1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",25.07661155,Present in Autoproposal
+J0222,"Injection, Patisiran, 0.1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",25.07661155,Present in Autoproposal
+J0222,"Injection, Patisiran, 0.1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",25.07661155,Present in Autoproposal
+J0222,"Injection, Patisiran, 0.1 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",24.77515037,Present in Autoproposal
+J0222,"Injection, Patisiran, 0.1 mg",J3396,"INJECTION, VERTEPORFIN, 0.1 MG",24.77515037,Present in Autoproposal
+J0222,"Injection, Patisiran, 0.1 mg",C9261,"INJECTION, USTEKINUMAB, 1 MG",24.77515037,Present in Autoproposal
+J0222,"Injection, Patisiran, 0.1 mg",J1325,"INJECTION, EPOPROSTENOL, 0.5 MG",24.77515037,Present in Autoproposal
+J9119,"Injection, cemiplimab-rwlc, 1 mg",C9044,"Injection, cemiplimab-rwlc, 1 mg",100,Present in Autoproposal
+J9119,"Injection, cemiplimab-rwlc, 1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",18.83754824,Present in Autoproposal
+J9119,"Injection, cemiplimab-rwlc, 1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",18.83754824,Present in Autoproposal
+J9119,"Injection, cemiplimab-rwlc, 1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",18.83754824,Present in Autoproposal
+J9119,"Injection, cemiplimab-rwlc, 1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",18.83754824,Present in Autoproposal
+J9119,"Injection, cemiplimab-rwlc, 1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",18.83754824,Present in Autoproposal
+J9119,"Injection, cemiplimab-rwlc, 1 mg",J1325,"INJECTION, EPOPROSTENOL, 0.5 MG",18.61109063,Present in Autoproposal
+J9119,"Injection, cemiplimab-rwlc, 1 mg",Q9979,"INJECTION, ALEMTUZUMAB, 1 MG",18.61109063,Present in Autoproposal
+J9119,"Injection, cemiplimab-rwlc, 1 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",18.61109063,Present in Autoproposal
+J9119,"Injection, cemiplimab-rwlc, 1 mg",C9261,"INJECTION, USTEKINUMAB, 1 MG",18.61109063,Present in Autoproposal
+Q4212,"Allogen, per cc",Q4185,CELLESTA FLOWABLE AMNION (25 MG PER CC); PER 0.5 CC,64.25506675,Present in Autoproposal
+Q4212,"Allogen, per cc",Q4192,"RESTORIGIN, 1 CC",50.56405556,Present in Autoproposal
+Q4212,"Allogen, per cc",Q4149,"EXCELLAGEN, 0.1 CC",49.21955043,Present in Autoproposal
+Q4212,"Allogen, per cc",Q4177,"FLOWERAMNIOFLO, 0.1 CC",49.21955043,Present in Autoproposal
+Q4212,"Allogen, per cc",C9222,"DECELLULARIZED SOFT TISSUE SCAFFOLD, PER 1 CC",44.40225912,Present in Autoproposal
+Q4212,"Allogen, per cc",J1500,"INJECTION, GAMMA GLOBULIN, INTRAMUSCULAR, 5 CC",43.3208882,Present in Autoproposal
+Q4212,"Allogen, per cc",J1530,"INJECTION, GAMMA GLOBULIN, INTRAMUSCULAR, 8 CC",43.3208882,Present in Autoproposal
+Q4212,"Allogen, per cc",J1540,"INJECTION, GAMMA GLOBULIN, INTRAMUSCULAR, 9 CC",43.3208882,Present in Autoproposal
+Q4212,"Allogen, per cc",J1510,"INJECTION, GAMMA GLOBULIN, INTRAMUSCULAR, 6 CC",43.3208882,Present in Autoproposal
+Q4212,"Allogen, per cc",J1490,"INJECTION, GAMMA GLOBULIN, INTRAMUSCULAR, 4 CC",43.3208882,Present in Autoproposal
+J1303,"Injection, ravulizumab-cwvz, 10 mg",C9052,"Injection, ravulizumab-cwvz, 10 mg",100,Present in Autoproposal
+J1303,"Injection, ravulizumab-cwvz, 10 mg",J0475,"INJECTION, BACLOFEN, 10 MG",29.83536242,Present in Autoproposal
+J1303,"Injection, ravulizumab-cwvz, 10 mg",J9035,"INJECTION, BEVACIZUMAB, 10 MG",29.83536242,Present in Autoproposal
+J1303,"Injection, ravulizumab-cwvz, 10 mg",J9181,"INJECTION, ETOPOSIDE, 10 MG",29.54416406,Present in Autoproposal
+J1303,"Injection, ravulizumab-cwvz, 10 mg",J9150,"INJECTION, DAUNORUBICIN, 10 MG",29.54416406,Present in Autoproposal
+J1303,"Injection, ravulizumab-cwvz, 10 mg",J9010,"INJECTION, ALEMTUZUMAB, 10 MG",29.54416406,Present in Autoproposal
+J1303,"Injection, ravulizumab-cwvz, 10 mg",J9312,"INJECTION, RITUXIMAB, 10 MG",29.54416406,Present in Autoproposal
+J1303,"Injection, ravulizumab-cwvz, 10 mg",J0131,"INJECTION, ACETAMINOPHEN, 10 MG",29.20456317,Present in Autoproposal
+J1303,"Injection, ravulizumab-cwvz, 10 mg",C9283,"INJECTION, ACETAMINOPHEN, 10 MG",29.20456317,Present in Autoproposal
+J1303,"Injection, ravulizumab-cwvz, 10 mg",C9238,"INJECTION, LEVETIRACETAM, 10 MG",28.79602586,Present in Autoproposal
+Q4213,"Ascent, 0.5 mg",Q9978,NETUPITANT 300 MG AND PALONOSETRON 0.5 MG,48.08548003,Present in Autoproposal
+Q4213,"Ascent, 0.5 mg",J3240,"INJECTION, THYROTROPIN ALPHA, 0.9 MG, PROVIDED IN 1.1 MG VIAL",46.42782691,Present in Autoproposal
+Q4213,"Ascent, 0.5 mg",C9448,"NETUPITANT 300 MG AND PALONOSETRON 0.5 MG, ORAL",45.57998615,Present in Autoproposal
+Q4213,"Ascent, 0.5 mg",J8655,"NETUPITANT 300 MG AND PALONOSETRON 0.5 MG, ORAL",45.57998615,Present in Autoproposal
+Q4213,"Ascent, 0.5 mg",J0695,"INJECTION, CEFTOLOZANE 50 MG AND TAZOBACTAM 25 MG",44.05054179,Present in Autoproposal
+Q4213,"Ascent, 0.5 mg",C9452,"INJECTION, CEFTOLOZANE 50 MG AND TAZOBACTAM 25 MG",44.05054179,Present in Autoproposal
+Q4213,"Ascent, 0.5 mg",C9033,"INJECTION, FOSNETUPITANT 235 MG AND PALONOSETRON 0.25 MG",41.22704787,Present in Autoproposal
+Q4213,"Ascent, 0.5 mg",J1454,"INJECTION, FOSNETUPITANT 235 MG AND PALONOSETRON 0.25 MG",41.22704787,Present in Autoproposal
+Q4213,"Ascent, 0.5 mg",J9153,"INJECTION, LIPOSOMAL, 1 MG DAUNORUBICIN AND 2.27 MG CYTARABINE",40.82601569,Present in Autoproposal
+Q4213,"Ascent, 0.5 mg",C9024,"INJECTION, LIPOSOMAL, 1 MG DAUNORUBICIN AND 2.27 MG CYTARABINE",40.82601569,Present in Autoproposal
+J7332,"Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg",J7318,"HYALURONAN OR DERIVATIVE, DUROLANE, FOR INTRA-ARTICULAR INJECTION, 1 MG",85.34453437,Present in Autoproposal
+J7332,"Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg",J7322,"HYALURONAN OR DERIVATIVE, HYMOVIS, FOR INTRA-ARTICULAR INJECTION, 1 MG",85.34453437,Present in Autoproposal
+J7332,"Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg",C9471,"HYALURONAN OR DERIVATIVE, HYMOVIS, FOR INTRA-ARTICULAR INJECTION, 1 MG",85.34453437,Present in Autoproposal
+J7332,"Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg",J7329,"HYALURONAN OR DERIVATIVE, TRIVISC, FOR INTRA-ARTICULAR INJECTION, 1 MG",84.40527401,Present in Autoproposal
+J7332,"Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg",J7328,"HYALURONAN OR DERIVATIVE, GELSYN-3, FOR INTRA-ARTICULAR INJECTION, 0.1 MG",84.40527401,Present in Autoproposal
+J7332,"Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg",J7326,"HYALURONAN OR DERIVATIVE, GEL-ONE, FOR INTRA-ARTICULAR INJECTION, PER DOSE",78.91705539,Present in Autoproposal
+J7332,"Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg",Q4084,"HYALURONAN OR DERIVATIVE, SYNVISC, FOR INTRA-ARTICULAR INJECTION, PER DOSE",76.82689749,Present in Autoproposal
+J7332,"Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg",Q4085,"HYALURONAN OR DERIVATIVE, EUFLEXXA, FOR INTRA-ARTICULAR INJECTION, PER DOSE",76.82689749,Present in Autoproposal
+J7332,"Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg",J7323,"HYALURONAN OR DERIVATIVE, EUFLEXXA, FOR INTRA-ARTICULAR INJECTION, PER DOSE",76.82689749,Present in Autoproposal
+J7332,"Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg",C9465,"HYALURONAN OR DERIVATIVE, DUROLANE, FOR INTRA-ARTICULAR INJECTION, PER DOSE",76.82689749,Present in Autoproposal
+J1943,"Injection, aripiprazole lauroxil, (aristada initio), 1 mg",C9035,"INJECTION, ARIPIPRAZOLE LAUROXIL (ARISTADA INITIO), 1 MG",100,Present in Autoproposal
+J1943,"Injection, aripiprazole lauroxil, (aristada initio), 1 mg",J1942,"INJECTION, ARIPIPRAZOLE LAUROXIL, 1 MG",70.42134733,Present in Autoproposal
+J1943,"Injection, aripiprazole lauroxil, (aristada initio), 1 mg",C9470,"INJECTION, ARIPIPRAZOLE LAUROXIL, 1 MG",70.42134733,Present in Autoproposal
+J1943,"Injection, aripiprazole lauroxil, (aristada initio), 1 mg",J0400,"INJECTION, ARIPIPRAZOLE, INTRAMUSCULAR, 0.25 MG",41.43390762,Present in Autoproposal
+J1943,"Injection, aripiprazole lauroxil, (aristada initio), 1 mg",J0401,"INJECTION, ARIPIPRAZOLE, EXTENDED RELEASE, 1 MG",38.95151987,Present in Autoproposal
+J1943,"Injection, aripiprazole lauroxil, (aristada initio), 1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",14.32740173,Present in Autoproposal
+J1943,"Injection, aripiprazole lauroxil, (aristada initio), 1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",14.32740173,Present in Autoproposal
+J1943,"Injection, aripiprazole lauroxil, (aristada initio), 1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",14.32740173,Present in Autoproposal
+J1943,"Injection, aripiprazole lauroxil, (aristada initio), 1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",14.32740173,Present in Autoproposal
+J1943,"Injection, aripiprazole lauroxil, (aristada initio), 1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",14.32740173,Present in Autoproposal
+J1944,"Injection, aripiprazole lauroxil, (aristada), 1 mg",C9035,"INJECTION, ARIPIPRAZOLE LAUROXIL (ARISTADA INITIO), 1 MG",86.4845829,Present in Autoproposal
+J1944,"Injection, aripiprazole lauroxil, (aristada), 1 mg",J1942,"INJECTION, ARIPIPRAZOLE LAUROXIL, 1 MG",81.42647506,Present in Autoproposal
+J1944,"Injection, aripiprazole lauroxil, (aristada), 1 mg",C9470,"INJECTION, ARIPIPRAZOLE LAUROXIL, 1 MG",81.42647506,Present in Autoproposal
+J1944,"Injection, aripiprazole lauroxil, (aristada), 1 mg",J0400,"INJECTION, ARIPIPRAZOLE, INTRAMUSCULAR, 0.25 MG",47.90901017,Present in Autoproposal
+J1944,"Injection, aripiprazole lauroxil, (aristada), 1 mg",J0401,"INJECTION, ARIPIPRAZOLE, EXTENDED RELEASE, 1 MG",45.03868615,Present in Autoproposal
+J1944,"Injection, aripiprazole lauroxil, (aristada), 1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",16.56642288,Present in Autoproposal
+J1944,"Injection, aripiprazole lauroxil, (aristada), 1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",16.56642288,Present in Autoproposal
+J1944,"Injection, aripiprazole lauroxil, (aristada), 1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",16.56642288,Present in Autoproposal
+J1944,"Injection, aripiprazole lauroxil, (aristada), 1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",16.56642288,Present in Autoproposal
+J1944,"Injection, aripiprazole lauroxil, (aristada), 1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",16.56642288,Present in Autoproposal
+J9269,"Injection, tagraxofusp-erzs, 10 micrograms",C9049,"Injection, tagraxofusp-erzs, 10 mcg",81.06442297,Present in Autoproposal
+J9269,"Injection, tagraxofusp-erzs, 10 micrograms",J2796,"INJECTION, ROMIPLOSTIM, 10 MICROGRAMS",42.30351188,Present in Autoproposal
+J9269,"Injection, tagraxofusp-erzs, 10 micrograms",J1675,"INJECTION, HISTRELIN ACETATE, 10 MICROGRAMS",38.47457855,Present in Autoproposal
+J9269,"Injection, tagraxofusp-erzs, 10 micrograms",J2805,"INJECTION, SINCALIDE, 5 MICROGRAMS",33.47192883,Present in Autoproposal
+J9269,"Injection, tagraxofusp-erzs, 10 micrograms",J2425,"INJECTION, PALIFERMIN, 50 MICROGRAMS",30.69228222,Present in Autoproposal
+J9269,"Injection, tagraxofusp-erzs, 10 micrograms",J1446,"INJECTION, TBO-FILGRASTIM, 5 MICROGRAMS",28.48706311,Present in Autoproposal
+J9269,"Injection, tagraxofusp-erzs, 10 micrograms",J9160,"INJECTION, DENILEUKIN DIFTITOX, 300 MICROGRAMS",25.47471161,Present in Autoproposal
+J9269,"Injection, tagraxofusp-erzs, 10 micrograms",J2788,"INJECTION, RHO D IMMUNE GLOBULIN, HUMAN, MINIDOSE, 50 MICROGRAMS (250 I.U.)",21.12086616,Present in Autoproposal
+J9269,"Injection, tagraxofusp-erzs, 10 micrograms",J2790,"INJECTION, RHO D IMMUNE GLOBULIN, HUMAN, FULL DOSE, 300 MICROGRAMS (1500 I.U.)",20.96219386,Present in Autoproposal
+J9269,"Injection, tagraxofusp-erzs, 10 micrograms",J0475,"INJECTION, BACLOFEN, 10 MG",19.35290666,Present in Autoproposal
+Q4214,"Cellesta cord, per square centimeter",Q4184,"CELLESTA, PER SQUARE CENTIMETER",90.42578399,Present in Autoproposal
+Q4214,"Cellesta cord, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",45.2153003,Present in Autoproposal
+Q4214,"Cellesta cord, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",44.26060216,Present in Autoproposal
+Q4214,"Cellesta cord, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",43.83759368,Present in Autoproposal
+Q4214,"Cellesta cord, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",43.83759368,Present in Autoproposal
+Q4214,"Cellesta cord, per square centimeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",43.32542848,Present in Autoproposal
+Q4214,"Cellesta cord, per square centimeter",Q4191,"RESTORIGIN, PER SQUARE CENTIMETER",42.6744451,Present in Autoproposal
+Q4214,"Cellesta cord, per square centimeter",Q4107,"GRAFTJACKET, PER SQUARE CENTIMETER",42.6744451,Present in Autoproposal
+Q4214,"Cellesta cord, per square centimeter",Q4110,"PRIMATRIX, PER SQUARE CENTIMETER",42.6744451,Present in Autoproposal
+Q4214,"Cellesta cord, per square centimeter",Q4182,"TRANSCYTE, PER SQUARE CENTIMETER",42.6744451,Present in Autoproposal
+Q4226,"MyOwn skin, includes harvesting and preparation procedures, per square centimeter",Q4200,"SKIN TE, PER SQUARE CENTIMETER",47.69700627,Present in Autoproposal
+Q4226,"MyOwn skin, includes harvesting and preparation procedures, per square centimeter",Q4109,"SKIN SUBSTITUTE, TISSUEMEND, PER SQUARE CENTIMETER",44.03121273,Present in Autoproposal
+Q4226,"MyOwn skin, includes harvesting and preparation procedures, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",41.80377278,Present in Autoproposal
+Q4226,"MyOwn skin, includes harvesting and preparation procedures, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",40.92110732,Present in Autoproposal
+Q4226,"MyOwn skin, includes harvesting and preparation procedures, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",40.53001514,Present in Autoproposal
+Q4226,"MyOwn skin, includes harvesting and preparation procedures, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",40.53001514,Present in Autoproposal
+Q4226,"MyOwn skin, includes harvesting and preparation procedures, per square centimeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",40.05649318,Present in Autoproposal
+Q4226,"MyOwn skin, includes harvesting and preparation procedures, per square centimeter",Q4106,"DERMAGRAFT, PER SQUARE CENTIMETER",39.45462697,Present in Autoproposal
+Q4226,"MyOwn skin, includes harvesting and preparation procedures, per square centimeter",Q4182,"TRANSCYTE, PER SQUARE CENTIMETER",39.45462697,Present in Autoproposal
+Q4226,"MyOwn skin, includes harvesting and preparation procedures, per square centimeter",Q4107,"GRAFTJACKET, PER SQUARE CENTIMETER",39.45462697,Present in Autoproposal
+J7401,"Mometasone furoate sinus implant, 10 micrograms",S1090,"MOMETASONE FUROATE SINUS IMPLANT, 370 MICROGRAMS",84.61512536,Present in Autoproposal
+J7401,"Mometasone furoate sinus implant, 10 micrograms",J2796,"INJECTION, ROMIPLOSTIM, 10 MICROGRAMS",33.7177176,Present in Autoproposal
+J7401,"Mometasone furoate sinus implant, 10 micrograms",J1675,"INJECTION, HISTRELIN ACETATE, 10 MICROGRAMS",30.66589313,Present in Autoproposal
+J7401,"Mometasone furoate sinus implant, 10 micrograms",0510T,Removal of sinus tarsi implant,27.45747632,Present in Autoproposal
+J7401,"Mometasone furoate sinus implant, 10 micrograms",0335T,Insertion of sinus tarsi implant,27.05823904,Present in Autoproposal
+J7401,"Mometasone furoate sinus implant, 10 micrograms",J2805,"INJECTION, SINCALIDE, 5 MICROGRAMS",25.36996983,Present in Autoproposal
+J7401,"Mometasone furoate sinus implant, 10 micrograms",J2425,"INJECTION, PALIFERMIN, 50 MICROGRAMS",23.26314321,Present in Autoproposal
+J7401,"Mometasone furoate sinus implant, 10 micrograms",0511T,Removal and reinsertion of sinus tarsi implant,22.99644249,Present in Autoproposal
+J7401,"Mometasone furoate sinus implant, 10 micrograms",31276,"Nasal/sinus endoscopy, surgical, with frontal sinus exploration, including removal of tissue from frontal sinus, when performed",22.12446454,Present in Autoproposal
+J7401,"Mometasone furoate sinus implant, 10 micrograms",J1446,"INJECTION, TBO-FILGRASTIM, 5 MICROGRAMS",21.59170256,Present in Autoproposal
+J9204,"Injection, mogamulizumab-kpkc, 1 mg",C9038,"INJECTION, MOGAMULIZUMAB-KPKC, 1 MG",100,Present in Autoproposal
+J9204,"Injection, mogamulizumab-kpkc, 1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",18.83754824,Present in Autoproposal
+J9204,"Injection, mogamulizumab-kpkc, 1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",18.83754824,Present in Autoproposal
+J9204,"Injection, mogamulizumab-kpkc, 1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",18.83754824,Present in Autoproposal
+J9204,"Injection, mogamulizumab-kpkc, 1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",18.83754824,Present in Autoproposal
+J9204,"Injection, mogamulizumab-kpkc, 1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",18.83754824,Present in Autoproposal
+J9204,"Injection, mogamulizumab-kpkc, 1 mg",Q9979,"INJECTION, ALEMTUZUMAB, 1 MG",18.61109063,Present in Autoproposal
+J9204,"Injection, mogamulizumab-kpkc, 1 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",18.61109063,Present in Autoproposal
+J9204,"Injection, mogamulizumab-kpkc, 1 mg",J1325,"INJECTION, EPOPROSTENOL, 0.5 MG",18.61109063,Present in Autoproposal
+J9204,"Injection, mogamulizumab-kpkc, 1 mg",C9261,"INJECTION, USTEKINUMAB, 1 MG",18.61109063,Present in Autoproposal
+J3111,"Injection, romosozumab-aqqg, 1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",52.52904511,Present in Autoproposal
+J3111,"Injection, romosozumab-aqqg, 1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",52.52904511,Present in Autoproposal
+J3111,"Injection, romosozumab-aqqg, 1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",52.52904511,Present in Autoproposal
+J3111,"Injection, romosozumab-aqqg, 1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",52.52904511,Present in Autoproposal
+J3111,"Injection, romosozumab-aqqg, 1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",52.52904511,Present in Autoproposal
+J3111,"Injection, romosozumab-aqqg, 1 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",51.89756155,Present in Autoproposal
+J3111,"Injection, romosozumab-aqqg, 1 mg",J1325,"INJECTION, EPOPROSTENOL, 0.5 MG",51.89756155,Present in Autoproposal
+J3111,"Injection, romosozumab-aqqg, 1 mg",J3396,"INJECTION, VERTEPORFIN, 0.1 MG",51.89756155,Present in Autoproposal
+J3111,"Injection, romosozumab-aqqg, 1 mg",Q9979,"INJECTION, ALEMTUZUMAB, 1 MG",51.89756155,Present in Autoproposal
+J3111,"Injection, romosozumab-aqqg, 1 mg",J0178,"INJECTION, AFLIBERCEPT, 1 MG",51.89756155,Present in Autoproposal
+Q4217,"Woundfix, BioWound, Woundfix Plus, BioWound Plus, Woundfix Xplus or BioWound Xplus, per square centimeter",Q4173,"PALINGEN OR PALINGEN XPLUS, PER SQUARE CENTIMETER",48.03852325,Present in Autoproposal
+Q4217,"Woundfix, BioWound, Woundfix Plus, BioWound Plus, Woundfix Xplus or BioWound Xplus, per square centimeter",V2201,"SPHERE, BIFOCAL, PLUS OR MINUS 4.12 TO PLUS OR MINUS 7.00D, PER LENS",28.40890344,Present in Autoproposal
+Q4217,"Woundfix, BioWound, Woundfix Plus, BioWound Plus, Woundfix Xplus or BioWound Xplus, per square centimeter",V2301,"SPHERE, TRIFOCAL, PLUS OR MINUS 4.12 TO PLUS OR MINUS 7.00D, PER LENS",28.33706069,Present in Autoproposal
+Q4217,"Woundfix, BioWound, Woundfix Plus, BioWound Plus, Woundfix Xplus or BioWound Xplus, per square centimeter",V2101,"SPHERE, SINGLE VISION, PLUS OR MINUS 4.12 TO PLUS OR MINUS 7.00D, PER LENS",28.12951442,Present in Autoproposal
+Q4217,"Woundfix, BioWound, Woundfix Plus, BioWound Plus, Woundfix Xplus or BioWound Xplus, per square centimeter",V2202,"SPHERE, BIFOCAL, PLUS OR MINUS 7.12 TO PLUS OR MINUS 20.00D, PER LENS",27.66150255,Present in Autoproposal
+Q4217,"Woundfix, BioWound, Woundfix Plus, BioWound Plus, Woundfix Xplus or BioWound Xplus, per square centimeter",V2102,"SPHERE, SINGLE VISION, PLUS OR MINUS 7.12 TO PLUS OR MINUS 20.00D, PER LENS",27.40339248,Present in Autoproposal
+Q4217,"Woundfix, BioWound, Woundfix Plus, BioWound Plus, Woundfix Xplus or BioWound Xplus, per square centimeter",V2302,"SPHERE, TRIFOCAL, PLUS OR MINUS 7.12 TO PLUS OR MINUS 20.00, PER LENS",27.40131662,Present in Autoproposal
+Q4217,"Woundfix, BioWound, Woundfix Plus, BioWound Plus, Woundfix Xplus or BioWound Xplus, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",26.09395983,Present in Autoproposal
+Q4217,"Woundfix, BioWound, Woundfix Plus, BioWound Plus, Woundfix Xplus or BioWound Xplus, per square centimeter",Q4137,"AMNIOEXCEL, AMNIOEXCEL PLUS OR BIODEXCEL, PER SQUARE CENTIMETER",25.99803293,Present in Autoproposal
+Q4217,"Woundfix, BioWound, Woundfix Plus, BioWound Plus, Woundfix Xplus or BioWound Xplus, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",25.5429991,Present in Autoproposal
+J9118,"Injection, calaspargase pegol-mknl, 10 units",J0718,"INJECTION, CERTOLIZUMAB PEGOL, 1 MG",54.73502534,Present in Autoproposal
+J9118,"Injection, calaspargase pegol-mknl, 10 units",C9249,"INJECTION, CERTOLIZUMAB PEGOL, 1 MG",54.73502534,Present in Autoproposal
+J9118,"Injection, calaspargase pegol-mknl, 10 units",J1786,"INJECTION, IMIGLUCERASE, 10 UNITS",47.45593749,Present in Autoproposal
+J9118,"Injection, calaspargase pegol-mknl, 10 units",C9293,"INJECTION, GLUCARPIDASE, 10 UNITS",45.72092944,Present in Autoproposal
+J9118,"Injection, calaspargase pegol-mknl, 10 units",J0205,"INJECTION, ALGLUCERASE, PER 10 UNITS",44.17591373,Present in Autoproposal
+J9118,"Injection, calaspargase pegol-mknl, 10 units",J2590,"INJECTION, OXYTOCIN, UP TO 10 UNITS",42.26083077,Present in Autoproposal
+J9118,"Injection, calaspargase pegol-mknl, 10 units",J3060,"INJECTION, TALIGLUCERASE ALFA, 10 UNITS",40.96015592,Present in Autoproposal
+J9118,"Injection, calaspargase pegol-mknl, 10 units",C9294,"INJECTION, TALIGLUCERASE ALFA, 10 UNITS",40.96015592,Present in Autoproposal
+J9118,"Injection, calaspargase pegol-mknl, 10 units",J1815,"INJECTION, INSULIN, PER 5 UNITS",38.38042373,Present in Autoproposal
+J9118,"Injection, calaspargase pegol-mknl, 10 units",J9020,"INJECTION, ASPARAGINASE, NOT OTHERWISE SPECIFIED, 10,000 UNITS",35.21514942,Present in Autoproposal
+J9210,"Injection, emapalumab-lzsg, 1 mg",C9050,"Injection, emapalumab-lzsg, 1 mg",100,Present in Autoproposal
+J9210,"Injection, emapalumab-lzsg, 1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",18.83754824,Present in Autoproposal
+J9210,"Injection, emapalumab-lzsg, 1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",18.83754824,Present in Autoproposal
+J9210,"Injection, emapalumab-lzsg, 1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",18.83754824,Present in Autoproposal
+J9210,"Injection, emapalumab-lzsg, 1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",18.83754824,Present in Autoproposal
+J9210,"Injection, emapalumab-lzsg, 1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",18.83754824,Present in Autoproposal
+J9210,"Injection, emapalumab-lzsg, 1 mg",J1325,"INJECTION, EPOPROSTENOL, 0.5 MG",18.61109063,Present in Autoproposal
+J9210,"Injection, emapalumab-lzsg, 1 mg",Q9979,"INJECTION, ALEMTUZUMAB, 1 MG",18.61109063,Present in Autoproposal
+J9210,"Injection, emapalumab-lzsg, 1 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",18.61109063,Present in Autoproposal
+J9210,"Injection, emapalumab-lzsg, 1 mg",C9261,"INJECTION, USTEKINUMAB, 1 MG",18.61109063,Present in Autoproposal
+J0122,"Injection, eravacycline, 1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",52.52904511,Present in Autoproposal
+J0122,"Injection, eravacycline, 1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",52.52904511,Present in Autoproposal
+J0122,"Injection, eravacycline, 1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",52.52904511,Present in Autoproposal
+J0122,"Injection, eravacycline, 1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",52.52904511,Present in Autoproposal
+J0122,"Injection, eravacycline, 1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",52.52904511,Present in Autoproposal
+J0122,"Injection, eravacycline, 1 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",51.89756155,Present in Autoproposal
+J0122,"Injection, eravacycline, 1 mg",J1325,"INJECTION, EPOPROSTENOL, 0.5 MG",51.89756155,Present in Autoproposal
+J0122,"Injection, eravacycline, 1 mg",J3396,"INJECTION, VERTEPORFIN, 0.1 MG",51.89756155,Present in Autoproposal
+J0122,"Injection, eravacycline, 1 mg",Q9979,"INJECTION, ALEMTUZUMAB, 1 MG",51.89756155,Present in Autoproposal
+J0122,"Injection, eravacycline, 1 mg",J0178,"INJECTION, AFLIBERCEPT, 1 MG",51.89756155,Present in Autoproposal
+Q4218,"Surgicord, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",72.78725426,Present in Autoproposal
+Q4218,"Surgicord, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",71.25038829,Present in Autoproposal
+Q4218,"Surgicord, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",70.56943239,Present in Autoproposal
+Q4218,"Surgicord, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",70.56943239,Present in Autoproposal
+Q4218,"Surgicord, per square centimeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",69.74495266,Present in Autoproposal
+Q4218,"Surgicord, per square centimeter",Q4110,"PRIMATRIX, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4218,"Surgicord, per square centimeter",Q4107,"GRAFTJACKET, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4218,"Surgicord, per square centimeter",Q4191,"RESTORIGIN, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4218,"Surgicord, per square centimeter",Q4106,"DERMAGRAFT, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4218,"Surgicord, per square centimeter",Q4187,"EPICORD, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4219,"Surgigraft-dual, per square centimeter",Q4183,"SURGIGRAFT, PER SQUARE CENTIMETER",91.36529566,Present in Autoproposal
+Q4219,"Surgigraft-dual, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",44.7225431,Present in Autoproposal
+Q4219,"Surgigraft-dual, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",43.77824928,Present in Autoproposal
+Q4219,"Surgigraft-dual, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",43.35985075,Present in Autoproposal
+Q4219,"Surgigraft-dual, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",43.35985075,Present in Autoproposal
+Q4219,"Surgigraft-dual, per square centimeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",42.85326714,Present in Autoproposal
+Q4219,"Surgigraft-dual, per square centimeter",Q4106,"DERMAGRAFT, PER SQUARE CENTIMETER",42.20937818,Present in Autoproposal
+Q4219,"Surgigraft-dual, per square centimeter",Q4182,"TRANSCYTE, PER SQUARE CENTIMETER",42.20937818,Present in Autoproposal
+Q4219,"Surgigraft-dual, per square centimeter",Q4110,"PRIMATRIX, PER SQUARE CENTIMETER",42.20937818,Present in Autoproposal
+Q4219,"Surgigraft-dual, per square centimeter",Q4187,"EPICORD, PER SQUARE CENTIMETER",42.20937818,Present in Autoproposal
+Q4221,"Amniowrap2, per square centimeter",Q4159,"AFFINITY, PER SQUARE CENTIMETER",72.78725426,Present in Autoproposal
+Q4221,"Amniowrap2, per square centimeter",Q4195,"PURAPLY, PER SQUARE CENTIMETER",71.25038829,Present in Autoproposal
+Q4221,"Amniowrap2, per square centimeter",C9366,"EPIFIX, PER SQUARE CENTIMETER",70.56943239,Present in Autoproposal
+Q4221,"Amniowrap2, per square centimeter",Q4186,"EPIFIX, PER SQUARE CENTIMETER",70.56943239,Present in Autoproposal
+Q4221,"Amniowrap2, per square centimeter",Q4115,"ALLOSKIN, PER SQUARE CENTIMETER",69.74495266,Present in Autoproposal
+Q4221,"Amniowrap2, per square centimeter",Q4110,"PRIMATRIX, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4221,"Amniowrap2, per square centimeter",Q4107,"GRAFTJACKET, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4221,"Amniowrap2, per square centimeter",Q4191,"RESTORIGIN, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4221,"Amniowrap2, per square centimeter",Q4106,"DERMAGRAFT, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q4221,"Amniowrap2, per square centimeter",Q4187,"EPICORD, PER SQUARE CENTIMETER",68.69700444,Present in Autoproposal
+Q5116,"Injection, trastuzumab-qyyp, biosimilar, (trazimera), 10 mg",J9355,"Injection, trastuzumab, excludes biosimilar, 10 mg",87.46362151,Present in Autoproposal
+Q5116,"Injection, trastuzumab-qyyp, biosimilar, (trazimera), 10 mg",Q5113,"Injection, trastuzumab-pkrb, biosimilar, (Herzuma), 10 mg",69.52625518,Present in Autoproposal
+Q5116,"Injection, trastuzumab-qyyp, biosimilar, (trazimera), 10 mg",Q5114,"Injection, Trastuzumab-dkst, biosimilar, (Ogivri), 10 mg",69.52625518,Present in Autoproposal
+Q5116,"Injection, trastuzumab-qyyp, biosimilar, (trazimera), 10 mg",Q5112,"Injection, trastuzumab-dttb, biosimilar, (Ontruzant), 10 mg",69.52625518,Present in Autoproposal
+Q5116,"Injection, trastuzumab-qyyp, biosimilar, (trazimera), 10 mg",Q5102,"INJECTION, INFLIXIMAB, BIOSIMILAR, 10 MG",61.37460228,Present in Autoproposal
+Q5116,"Injection, trastuzumab-qyyp, biosimilar, (trazimera), 10 mg",J1745,"INJECTION, INFLIXIMAB, EXCLUDES BIOSIMILAR, 10 MG",53.92290293,Present in Autoproposal
+Q5116,"Injection, trastuzumab-qyyp, biosimilar, (trazimera), 10 mg",J9356,"Injection, trastuzumab, 10 mg and Hyaluronidase-oysk",52.26622585,Present in Autoproposal
+Q5116,"Injection, trastuzumab-qyyp, biosimilar, (trazimera), 10 mg",J9354,"INJECTION, ADO-TRASTUZUMAB EMTANSINE, 1 MG",43.15417004,Present in Autoproposal
+Q5116,"Injection, trastuzumab-qyyp, biosimilar, (trazimera), 10 mg",C9131,"INJECTION, ADO-TRASTUZUMAB EMTANSINE, 1 MG",43.15417004,Present in Autoproposal
+Q5116,"Injection, trastuzumab-qyyp, biosimilar, (trazimera), 10 mg",Q5107,"INJECTION, BEVACIZUMAB-AWWB, BIOSIMILAR, (MVASI), 10 MG",43.09860367,Present in Autoproposal
+Q5117,"Injection, trastuzumab-anns, biosimilar, (kanjinti), 10 mg",J9355,"Injection, trastuzumab, excludes biosimilar, 10 mg",87.46362151,Present in Autoproposal
+Q5117,"Injection, trastuzumab-anns, biosimilar, (kanjinti), 10 mg",Q5113,"Injection, trastuzumab-pkrb, biosimilar, (Herzuma), 10 mg",69.52625518,Present in Autoproposal
+Q5117,"Injection, trastuzumab-anns, biosimilar, (kanjinti), 10 mg",Q5114,"Injection, Trastuzumab-dkst, biosimilar, (Ogivri), 10 mg",69.52625518,Present in Autoproposal
+Q5117,"Injection, trastuzumab-anns, biosimilar, (kanjinti), 10 mg",Q5112,"Injection, trastuzumab-dttb, biosimilar, (Ontruzant), 10 mg",69.52625518,Present in Autoproposal
+Q5117,"Injection, trastuzumab-anns, biosimilar, (kanjinti), 10 mg",Q5102,"INJECTION, INFLIXIMAB, BIOSIMILAR, 10 MG",61.37460228,Present in Autoproposal
+Q5117,"Injection, trastuzumab-anns, biosimilar, (kanjinti), 10 mg",J1745,"INJECTION, INFLIXIMAB, EXCLUDES BIOSIMILAR, 10 MG",53.92290293,Present in Autoproposal
+Q5117,"Injection, trastuzumab-anns, biosimilar, (kanjinti), 10 mg",J9356,"Injection, trastuzumab, 10 mg and Hyaluronidase-oysk",52.26622585,Present in Autoproposal
+Q5117,"Injection, trastuzumab-anns, biosimilar, (kanjinti), 10 mg",J9354,"INJECTION, ADO-TRASTUZUMAB EMTANSINE, 1 MG",43.15417004,Present in Autoproposal
+Q5117,"Injection, trastuzumab-anns, biosimilar, (kanjinti), 10 mg",C9131,"INJECTION, ADO-TRASTUZUMAB EMTANSINE, 1 MG",43.15417004,Present in Autoproposal
+Q5117,"Injection, trastuzumab-anns, biosimilar, (kanjinti), 10 mg",Q5107,"INJECTION, BEVACIZUMAB-AWWB, BIOSIMILAR, (MVASI), 10 MG",43.09860367,Present in Autoproposal
+Q5118,"Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg",J9035,"INJECTION, BEVACIZUMAB, 10 MG",82.4319519,Present in Autoproposal
+Q5118,"Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg",C9214,"INJECTION, BEVACIZUMAB, PER 10 MG",78.73137783,Present in Autoproposal
+Q5118,"Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg",Q5107,"INJECTION, BEVACIZUMAB-AWWB, BIOSIMILAR, (MVASI), 10 MG",70.22221256,Present in Autoproposal
+Q5118,"Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg",Q2024,"INJECTION, BEVACIZUMAB, 0. 25 MG",64.79790282,Present in Autoproposal
+Q5118,"Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg",C9257,"INJECTION, BEVACIZUMAB, 0.25 MG",64.79790282,Present in Autoproposal
+Q5118,"Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg",Q5102,"INJECTION, INFLIXIMAB, BIOSIMILAR, 10 MG",60.1916087,Present in Autoproposal
+Q5118,"Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg",S0116,"BEVACIZUMAB, 100 MG",59.89798109,Present in Autoproposal
+Q5118,"Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg",J9355,"Injection, trastuzumab, excludes biosimilar, 10 mg",53.68044985,Present in Autoproposal
+Q5118,"Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg",J1745,"INJECTION, INFLIXIMAB, EXCLUDES BIOSIMILAR, 10 MG",52.88354062,Present in Autoproposal
+Q5118,"Injection, bevacizumab-bvzr, biosimilar, (Zirabev), 10 mg",Q5114,"Injection, Trastuzumab-dkst, biosimilar, (Ogivri), 10 mg",42.6714626,Present in Autoproposal

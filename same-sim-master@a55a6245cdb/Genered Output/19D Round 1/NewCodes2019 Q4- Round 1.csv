@@ -1,0 +1,72 @@
+﻿HCPCS,LongDesc,SimCode,Sim_LongDesc
+0105U,"Nephrology (chronic kidney disease), multiplex electrochemiluminescent immunoassay (ECLIA) of tumor necrosis factor receptor 1A, receptor superfamily 2 (TNFR1, TNFR2), and kidney injury molecule-1 (KIM-1) combined with longitudinal clinical data, including APOL1 genotype if available, and plasma (isolated fresh or frozen), algorithm reported as probability score for rapid kidney function decline (RKFD)",,
+0106U,"Gastric emptying, serial collection of 7 timed breath specimens, non-radioisotope carbon-13 (13C) spirulina substrate, analysis of each specimen by gas isotope
+ratio mass spectrometry, reported as rate of 13CO2 excretion",,
+0107U,"Clostridium difficile toxin(s) antigen detection by immunoassay technique, stool, qualitative, multiple-step method",,
+0108U,"Gastroenterology (Barrett’s esophagus), whole slide–digital imaging, including morphometric analysis, computer-assisted quantitative immunolabeling of 9 protein biomarkers (p16, AMACR, p53, CD68, COX-2, CD45RO, HIF1a, HER-2, K20) and morphology, formalin-fixed paraffin- embedded tissue, algorithm reported as risk of progression to high-grade dysplasia or cancer",,
+0109U,"Infectious disease (Aspergillus species), real-time PCR for detection of DNA from 4 species (A. fumigatus, A. terreus, A. niger, and A. flavus), blood, lavage fluid, or tissue, qualitative reporting of presence or absence of each species",,
+0110U,"Prescription drug monitoring, one or more oral oncology drug(s) and substances, definitive tandem mass spectrometry with chromatography, serum or plasma from capillary blood or venous blood, quantitative report with steady-state range for the prescribed drug(s) when detected",,
+0111U,"Oncology (colon cancer), targeted KRAS (codons 12, 13, and 61) and NRAS (codons 12, 13, and 61) gene analysis utilizing formalin-fixed paraffin-embedded tissue",,
+0112U,"Infectious agent detection and identification, targeted sequence analysis (16S and 18S rRNA genes) with drug- resistance gene",,
+0113U,"Oncology (prostate), measurement of PCA3 and TMPRSS2-ERG in urine and PSA in serum following prostatic massage, by RNA amplification and fluorescence- based detection, algorithm reported as risk score",,
+0114U,"Gastroenterology (Barrett’s esophagus), VIM and CCNA1 methylation analysis, esophageal cells, algorithm reported as likelihood for Barrett’s esophagus",,
+0115U,"Respiratory infectious agent detection by nucleic acid (DNA and RNA), 18 viral types and subtypes and 2 bacterial targets, amplified probe technique, including multiplex reverse transcription for RNA targets, each analyte reported as detected or not detected",,
+0116U,"Prescription drug monitoring, enzyme immunoassay of 35 or more drugs confirmed with LC-MS/MS, oral fluid, algorithm results reported as a patient-
+compliance measurement with risk of drug to drug interactions for prescribed medications",,
+0117U,"Pain management, analysis of 11 endogenous analytes (methylmalonic acid, xanthurenic acid, homocysteine, pyroglutamic acid, vanilmandelate, 5-
+hydroxyindoleacetic acid, hydroxymethylglutarate, ethylmalonate, 3- hydroxypropyl mercapturic acid (3-HPMA), quinolinic acid, kynurenic acid), LC- MS/MS, urine, algorithm reported as a pain-index score with likelihood of atypical biochemical function associated with pain",,
+0118U,"Transplantation medicine, quantification of donor-derived cell-free DNA using whole genome next-generation sequencing, plasma, reported as percentage of donor- derived cell-free DNA in the total cell-free DNA",,
+0119U,"Cardiology, ceramides by liquid chromatography–tandem mass spectrometry, plasma, quantitative report with risk score for major cardiovascular events",,
+0120U,"Oncology (B-cell lymphoma classification), mRNA, gene expression profiling by fluorescent probe hybridization of 58
+genes (45 content and 13 housekeeping genes), formalin-fixed paraffin-embedded
+tissue, algorithm reported as likelihood for
+primary mediastinal B-cell lymphoma (PMBCL) and diffuse large B-cell lymphoma (DLBCL) with cell of origin subtyping in the latter",,
+0121U,"Sickle cell disease, microfluidic flow adhesion (VCAM-1), whole blood",,
+0122U,"Sickle cell disease, microfluidic flow adhesion (P-Selectin), whole blood",,
+0123U,"Mechanical fragility, RBC, shear stress and spectral analysis profiling",,
+0124U,"Fetal congenital abnormalities, biochemical assays of 3 analytes (free beta-hCG, PAPP-A, AFP), time-resolved
+fluorescence immunoassay, maternal
+dried-blood spot, algorithm reported as risk scores for fetal trisomies 13/18 and 21",,
+0125U,"Fetal congenital abnormalities and perinatal complications, biochemical assays of 5 analytes (free beta-hCG,
+PAPP-A, AFP, placental growth factor, and
+inhibin-A), time-resolved fluorescence immunoassay, maternal serum, algorithm reported as risk scores for fetal trisomies
+13/18, 21, and preeclampsia",,
+0126U,"Fetal congenital abnormalities and perinatal complications, biochemical
+assays of 5 analytes (free beta-hCG,
+PAPP-A, AFP, placental growth factor, and inhibin-A), time-resolved fluorescence immunoassay, includes qualitative assessment of Y chromosome in cell-free fetal DNA, maternal serum and plasma, predictive algorithm reported as a risk scores for fetal trisomies 13/18, 21, and preeclampsia",,
+0127U,"Obstetrics (preeclampsia), biochemical assays of 3 analytes (PAPP-A, AFP, and placental growth factor), time-resolved
+fluorescence immunoassay, maternal
+serum, predictive algorithm reported as a risk score for preeclampsia",,
+0128U,"Obstetrics (preeclampsia), biochemical assays of 3 analytes (PAPP-A, AFP, and placental growth factor), time-resolved
+fluorescence immunoassay, includes
+qualitative assessment of Y chromosome in cell-free fetal DNA, maternal serum and plasma, predictive algorithm reported as a risk score for preeclampsia",,
+0129U,"Hereditary breast cancer–related disorders
+(eg, hereditary breast cancer, hereditary ovarian cancer, hereditary endometrial cancer), genomic sequence analysis and deletion/duplication analysis panel (ATM, BRCA1, BRCA2, CDH1, CHEK2, PALB2, PTEN, and TP53)",,
+0130U,"Hereditary colon cancer disorders (eg, Lynch syndrome, PTEN hamartoma
+syndrome, Cowden syndrome, familial
+adenomatosis polyposis), targeted mRNA sequence analysis panel (APC, CDH1, CHEK2, MLH1, MSH2, MSH6, MUTYH, PMS2, PTEN, and TP53) (List separately in addition to code for primary procedure)",,
+0131U,"Hereditary breast cancer–related disorders (eg, hereditary breast cancer, hereditary ovarian cancer, hereditary endometrial
+cancer), targeted mRNA sequence
+analysis panel (13 genes) (List separately in addition to code for primary procedure)",,
+0132U,"Hereditary ovarian cancer–related disorders (eg, hereditary breast cancer,
+hereditary ovarian cancer, hereditary endometrial cancer), targeted mRNA sequence analysis panel (17 genes) (List separately in addition to code for primary procedure)",,
+0133U,"Hereditary prostate cancer–related disorders, targeted mRNA sequence analysis panel (11 genes) (List separately
+in addition to code for primary procedure)",,
+0134U,"Hereditary pan cancer (eg, hereditary breast and ovarian cancer, hereditary endometrial cancer, hereditary colorectal cancer), targeted mRNA sequence analysis panel (18 genes) (List separately in addition to code for primary procedure)",,
+0135U,"Hereditary gynecological cancer (eg, hereditary breast and ovarian cancer,
+hereditary endometrial cancer, hereditary colorectal cancer), targeted mRNA
+sequence analysis panel (12 genes) (List
+separately in addition to code for primary procedure)",,
+0136U,"ATM (ataxia telangiectasia mutated) (eg, ataxia telangiectasia) mRNA sequence
+analysis (List separately in addition to
+code for primary procedure)",,
+0137U,"PALB2 (partner and localizer of BRCA2)
+(eg, breast and pancreatic cancer) mRNA sequence analysis (List separately in addition to code for primary procedure)",,
+0138U,"BRCA1 (BRCA1, DNA repair associated), BRCA2 (BRCA2, DNA repair associated) (eg, hereditary breast and ovarian cancer)
+mRNA sequence analysis (List separately
+in addition to code for primary procedure)",,
+2023F,Dilated retinal eye exam with interpretation by an ophthalmologist or optometrist documented and reviewed; without evidence of retinopathy (DM),,
+2025F,7 standard field stereoscopic retinal photos with interpretation by an ophthalmologist or optometrist documented and reviewed; without evidence of retinopathy (DM),,
+2033F,Eye imaging validated to match diagnosis from 7 standard field stereoscopic retinal photos results documented and reviewed; without evidence of retinopathy (DM),,
+3051F,Most recent hemoblobin A1c (HbA1c) level greater than or equal to 7.0% and less than 8.0% (DM),,
+3052F,Most recent hemoblobin A1c (HbA1c) level greater than or equal to 8.0% and less than or equal to 9.0% (DM),,

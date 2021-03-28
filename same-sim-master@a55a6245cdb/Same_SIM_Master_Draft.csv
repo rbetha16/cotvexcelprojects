@@ -1,0 +1,6 @@
+CPTCode,CPTLongDesc
+0001F,"Heart failure assessed (includes assessment of all the following components) (CAD): Blood pressure measured (2000F) Level of activity assessed (1003F) Clinical symptoms of volume overload (excess) assessed (1004F) Weight, recorded (2001F) Clinical signs of volume overload (excess) assessed (2002F)"
+0001M,"Infectious disease, chronic hepatitis C virus (HCV) infection, six biochemical assays (ALT, A2 macroglobulin, apolipoprotein A-1, total bilirubin, GGT, and haptoglobin) utilizing serum, prognostic algorithm reported as scores for fibrosis and necroinflammatory activity in liver"
+00TEST,PERC CATH STENT/BRAIN CV ART
+01TEST,PERC CATH STENT/BRAIN CV ART
+02TEST,ACE INHIBITOR THX PRESCRIBED

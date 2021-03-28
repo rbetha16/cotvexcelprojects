@@ -1,0 +1,87 @@
+﻿HCPCS,LongDesc,SimCode,Sim_LongDesc
+0084U,"Red blood cell antigen typing, DNA, genotyping of 10 blood groups with phenotype prediction of 37 red blood cell antigens.",,
+0085U,"Cytolethal distending toxin B (CdtB) and vinculin IgG antibodies by immunoassay (ie, ELISA)",,
+0086U,"Infectious disease (bacterial and fungal), organism identification, blood culture, using rRNA FISH, 6 or more organism
+targets, reported as positive or negative
+with phenotypic minimum inhibitory concentration (MIC)-based antimicrobial susceptibility",,
+0087U,"Cardiology (heart transplant), mRNA gene expression profiling by microarray of 1283 genes, transplant biopsy tissue, allograft
+rejection and injury algorithm reported as a
+probability score",,
+0088U,"Transplantation medicine (kidney allograft rejection), microarray gene expression
+profiling of 1494 genes, utilizing transplant biopsy tissue, algorithm reported as a
+probability score for rejection",,
+0089U,"Oncology (melanoma), gene expression profiling by RTqPCR, PRAME and LINC00518, superficial collection using
+adhesive patch(es)",,
+0090U,"Oncology (cutaneous melanoma), mRNA gene expression profiling by RT-PCR of 23 genes (14 content and 9 housekeeping),
+utilizing formalin-fixed paraffin-embedded
+tissue, algorithm reported as a categorical result (ie, benign, indeterminate, malignant)",,
+0091U,"Oncology (colorectal) screening, cell enumeration of circulating tumor cells, utilizing whole blood, algorithm, for the
+presence of adenoma or cancer, reported
+as a positive or negative result",,
+0092U,"Oncology (lung), three protein biomarkers, immunoassay using magnetic nanosensor technology, plasma, algorithm reported as
+risk score for likelihood of malignancy",,
+0093U,"Prescription drug monitoring, evaluation of
+65 common drugs by LC-MS/MS, urine, each drug reported detected or not detected",,
+0094U,"Genome (eg, unexplained constitutional or heritable disorder or syndrome), rapid
+sequence analysis",,
+0095U,"Inflammation (eosinophilic esophagitis), ELISA analysis of eotaxin-3 (CCL26 [C-C motif chemokine ligand 26]) and major
+basic protein (PRG2 [proteoglycan 2, pro
+eosinophil major basic protein]), specimen obtained by swallowed nylon string, algorithm report",,
+0096U,"Human papillomavirus (HPV), high-risk types (ie, 16, 18, 31, 33, 35, 39, 45, 51, 52,
+56, 58, 59, 66, 68), male urine",,
+0097U,"Gastrointestinal pathogen, multiplex reverse transcription and multiplex amplified probe technique, multiple types
+or subtypes, 22 targets (Campylobacter [C.
+jejuni/C. coli/C. upsaliensis], Clostridium difficile [C. difficile] toxin A/B, Plesiomonas shige",,
+0098U,"Respiratory pathogen, multiplex reverse transcription and multiplex amplified probe
+technique, multiple types or subtypes, 14
+targets (adenovirus, coronavirus, human metapneumovirus, influenza A, influenza A subtype H1, influenza A subtype H3, influenza A",,
+0099U,"Respiratory pathogen, multiplex reverse transcription and multiplex amplified probe
+technique, multiple types or subtypes, 20 targets (adenovirus, coronavirus 229E,
+coronavirus HKU1, coronavirus,
+coronavirus OC43, human metapneumovirus, influenza A, influ",,
+0100U,"Respiratory pathogen, multiplex reverse transcription and multiplex amplified probe technique, multiple types or subtypes, 20
+targets (adenovirus, coronavirus 229E,
+coronavirus HKU1, coronavirus NL63, coronavirus OC43, human metapneumovirus, human rhinovi",,
+0101U,"Hereditary colon cancer disorders (eg, Lynch syndrome, PTEN hamartoma syndrome, Cowden syndrome, familial adenomatosis polyposis), genomic sequence analysis panel utilizing a
+combination of NGS, Sanger, MLPA, and
+array CGH, with MRNA analytics to resolve ",,
+0102U,"Hereditary breast cancer-related disorders
+(eg, hereditary breast cancer, hereditary ovarian cancer, hereditary endometrial cancer), genomic sequence analysis panel utilizing a combination of NGS, Sanger, MLPA, and array CGH, with MRNA analytics to resolv",,
+0103U,"Hereditary ovarian cancer (eg, hereditary ovarian cancer, hereditary endometrial
+cancer), genomic sequence analysis panel utilizing a combination of NGS, Sanger,
+MLPA, and array CGH, with MRNA
+analytics to resolve variants of unknown significance when ind",,
+0104U,"Hereditary pan cancer (eg, hereditary breast and ovarian cancer, hereditary
+endometrial cancer, hereditary colorectal
+cancer), genomic sequence analysis panel utilizing a combination of NGS, Sanger, MLPA, and array CGH, with MRNA analytics to resolve vari",,
+0543T,"Transapical mitral valve repair, including transthoracic echocardiography, when performed, with placement of artificial chordae tendineae",,
+0544T,"Transcatheter mitral valve annulus reconstruction, with implantation of adjustable annulus reconstruction device, percutaneous approach including transseptal puncture",,
+0545T,"Transcatheter tricuspid valve annulus reconstruciton with implantation of adjustable annulus reconstruction device, percutaneous approach",,
+0546T,"Radiofrequency spectroscopy, real time, intraoperative margin assessment, at the time of partial mastectomy, with report",,
+0547T,"Bone-material quality testing by microindentation(s) of the tibia(s), with results reported as a score",,
+0548T,"Transperineal periurethral balloon continence device; bilateral placement, including cystoscopy and fluoroscopy",,
+0549T,"Transperineal periurethral balloon continence device; unilateral placement, including cystoscopy and fluoroscopy",,
+0550T,"Transperineal periurethral balloon continence device; removal, each balloon",,
+0551T,Transperineal periurethral balloon continence device; adjustment of balloon(s) fluid volume,,
+0552T,"Low-level laser therapy, dynamic photonic and dynamic thermokinetic energies, provided by a physician or other qualified health care professional",,
+0553T,"Percutaneous transcatheter placement of iliac arteriovenous anastomosis implant, inclusive of all radiological supervision and interpretation, intraprocedural roadmapping, and imaging guidance necessary to complete the intervention",,
+0554T,"Bone strength and fracture risk using finite element analysis of functional data, and bone-mineral density, utilizing data from a computed tomography scan; retrieval and transmission of the scan data, assessment of bone strength and fracture risk and bone",,
+0555T,"Bone strength and fracture risk using finite element analysis of functional data, and bone-mineral density, utilizing data from a computed tomography scan; retrieval and transmission of the scan data",,
+0556T,"Bone strength and fracture risk using finite element analysis of functional data, and bone-mineral density, utilizing data from a computed tomography scan; assessment of bone strength and fracture risk and bone mineral density",,
+0557T,"Bone strength and fracture risk using finite element analysis of functional data, and bone-mineral density, utilizing data from a computed tomography scan; interpretation and report",,
+0558T,Computed tomography scan taken for the purpose of biomechanical computed tomography analysis,,
+0559T,Anatomic model 3D-printed from image data set(s); first individually prepared and processed component of an anatomic structure,,
+0560T,Anatomic model 3D-printed from image data set(s); each additional individually prepared and processed component of an anatomic structure (List separately in addition to code for primary procedure) ,,
+0561T,Anatomic guide 3D-printed and designed from image data set(s); first anatomic guide,,
+0562T,Anatomic guide 3D-printed and designed from image data set(s); each additional anatomic guide (List separately in addition to code for primary procedure),,
+90619,"Meningococcal conjugate vaccine, serogroups A, C, W, Y, quadrivalent, tetanus toxoid carrier (MenACWY-TT), for intramuscular use",,
+J1444,"Injection, ferric pyrophosphate citrate powder, 0.1 mg of iron",,
+J7208,"Injection, factor viii, (antihemophilic factor, recombinant), pegylated-aucl, (jivi), 1 i.u.",,
+J7677,"Revefenacin inhalation solution, fda-approved final product, non-compounded, administered through DME, 1 microgram",,
+J9030,"BCG live intravesical instillation, 1 mg",,
+J9036,"Injection, bendamustine hydrochloride, (Belrapzo/bendamustine), 1 mg",,
+J9356,"Injection, trastuzumab, 10 mg and Hyaluronidase-oysk",,
+Q5112,"Injection, trastuzumab-dttb, biosimilar, (Ontruzant), 10 mg",,
+Q5113,"Injection, trastuzumab-pkrb, biosimilar, (Herzuma), 10 mg ",,
+Q5114,"Injection, Trastuzumab-dkst, biosimilar, (Ogivri), 10 mg",,
+Q5115,"Injection, rituximab-abbs, biosimilar, (Truxima), 10 mg",,

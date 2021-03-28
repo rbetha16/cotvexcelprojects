@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<h1>Welcome to Medicaid Rules Data</h1> 
+{% endblock %}
+
+{% block body %}
+
+   <hr>
+   <h2>Generating Medicaid Rule Desc: </h2>
+    <form action='/postdata' method='POST' >
+        <label for="MidRule">MidRule:</label> 
+        <input class="form-control" type="text" name='midrule' id='midrule' placeholder="Enter MidRule" aria-label="Enter MidRule">
+        <label for="MidRule Desc">MidRule Description:</label> 
+        <input class="form-control" type="text" name='midrule desc' id='midrule desc' placeholder="MidRule Desc" aria-label="MidRule Desc">
+        <br>
+        <br>     
+        <input class="btn btn-primary" type='submit' value='Submit'>
+        <br>
+        </form>
+    </form>
+     
+    <hr>
+    {% for post in allposts %}
+      
+            <!-- {% if num %} -->
+            <small>{{ post.midrule }}</small>
+            <p>{{ post.midruledesc }}</p>
+            <!-- {% endif %} -->
+        <hr>    
+    {% endfor %}
+
+{% endblock %}

@@ -1,0 +1,10 @@
+HCPCS,LongDesc,SimCode,Sim_LongDesc
+0045U,"Oncology (breast ductal carcinoma in situ), mRNA, gene expression profiling by real-time RT-PCR of 12 genes (7 content and 5 housekeeping), utilizing formalin-fixed paraffin-embedded tissue, algorithm reported as recurrence score",,
+0046U,"FLT3 (fms-related tyrosine kinase 3) (eg, acute myeloid leukemia) internal tandem duplication (ITD) variants, quantitative",,
+0047U,"Oncology (prostate), mRNA, gene expression profiling by real-time RT-PCR of 17 genes (12 content and 5 housekeeping), utilizing formalin-fixed paraffin-embedded tissue, algorithm reported as a risk score",,
+0048U,"Oncology (solid organ neoplasia), DNA, targeted sequencing of protein-coding exons of 468 cancer-associated genes, including interrogation for somatic mutations and microsatellite instability, matched with normal specimens, utilizing formalin-fixed paraffin-embedded tumor tissue, report of clinically significant mutation(s)",,
+0048U,"Oncology (solid organ neoplasia), DNA, targeted sequencing of protein-coding exons of 468 cancer-associated genes, including interrogation for somatic mutations and microsatellite instability, matched with normal specimens, utilizing formalin-fixed paraffin-embedded tumor tissue, report of clinically significant mutation(s)",,
+0049U,"NPM1 (nucleophosmin) (eg, acute myeloid leukemia) gene analysis, quantitative",,
+0050U,"Targeted genomic sequence analysis panel, acute myelogenous leukemia, DNA analysis, 194 genes, interrogation for sequence variants, copy number variants or rearrangements",,
+0051U,"Prescription drug monitoring, evaluation of drugs present by LC-MS/MS, urine, 31 drug panel, reported as quantitative results, detected or not detected, per date of service",,
+0051U,"Prescription drug monitoring, evaluation of drugs present by LC-MS/MS, urine, 31 drug panel, reported as quantitative results, detected or not detected, per date of service",,

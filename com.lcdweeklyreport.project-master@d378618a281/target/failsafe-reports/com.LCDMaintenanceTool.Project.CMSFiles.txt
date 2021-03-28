@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: com.LCDMaintenanceTool.Project.CMSFiles
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.044 sec <<< FAILURE! - in com.LCDMaintenanceTool.Project.CMSFiles
+downloadCurrentAndRetiredLCD_Articles(com.LCDMaintenanceTool.Project.CMSFiles)  Time elapsed: 0.044 sec  <<< ERROR!
+java.lang.Error: Unresolved compilation problems: 
+	ChromeOptions cannot be resolved to a type
+	ChromeOptions cannot be resolved to a type
+	WebDriver cannot be resolved to a type
+	ChromeDriver cannot be resolved to a type
+	JavascriptExecutor cannot be resolved to a type
+	JavascriptExecutor cannot be resolved to a type
+	WebElement cannot be resolved to a type
+	By cannot be resolved
+	By cannot be resolved
+	By cannot be resolved
+	By cannot be resolved
+	By cannot be resolved
+	By cannot be resolved
+	By cannot be resolved
+	By cannot be resolved
+	FileUtils cannot be resolved
+
+	at com.LCDMaintenanceTool.Project.CMSFiles.downloadCurrentAndRetiredLCD_Articles(CMSFiles.java:96)
+

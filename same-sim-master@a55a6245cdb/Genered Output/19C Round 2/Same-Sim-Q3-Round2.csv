@@ -1,0 +1,71 @@
+NewCode,NewCodeDesc,SameSimCode,CPTDesc,Accuracy,Comments
+C9047,"Injection, caplacizumab-yhdp, 1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",52.56638627,Present in Autoproposal
+C9047,"Injection, caplacizumab-yhdp, 1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",52.56638627,Present in Autoproposal
+C9047,"Injection, caplacizumab-yhdp, 1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",52.56638627,Present in Autoproposal
+C9047,"Injection, caplacizumab-yhdp, 1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",52.56638627,Present in Autoproposal
+C9047,"Injection, caplacizumab-yhdp, 1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",52.56638627,Present in Autoproposal
+C9047,"Injection, caplacizumab-yhdp, 1 mg",C9261,"INJECTION, USTEKINUMAB, 1 MG",51.93477136,Present in Autoproposal
+C9047,"Injection, caplacizumab-yhdp, 1 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",51.93477136,Present in Autoproposal
+C9047,"Injection, caplacizumab-yhdp, 1 mg",J1325,"INJECTION, EPOPROSTENOL, 0.5 MG",51.93477136,Present in Autoproposal
+C9047,"Injection, caplacizumab-yhdp, 1 mg",J0202,"INJECTION, ALEMTUZUMAB, 1 MG",51.93477136,Present in Autoproposal
+C9047,"Injection, caplacizumab-yhdp, 1 mg",Q9979,"INJECTION, ALEMTUZUMAB, 1 MG",51.93477136,Present in Autoproposal
+C9048,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",J8540,"DEXAMETHASONE, ORAL, 0.25 MG",43.34996098,Present in Autoproposal
+C9048,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",J1094,"INJECTION, DEXAMETHASONE ACETATE, 1 MG",43.02731396,Present in Autoproposal
+C9048,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",J7315,"MITOMYCIN, OPHTHALMIC, 0.2 MG",39.47435989,Present in Autoproposal
+C9048,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",J1100,"INJECTION, DEXAMETHASONE SODIUM PHOSPHATE, 1 MG",38.59162109,Present in Autoproposal
+C9048,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",C9256,"INJECTION, DEXAMETHASONE INTRAVITREAL IMPLANT, 0.1 MG",37.22438219,Present in Autoproposal
+C9048,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",J7312,"INJECTION, DEXAMETHASONE, INTRAVITREAL IMPLANT, 0.1 MG",37.22438219,Present in Autoproposal
+C9048,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",68899,"Unlisted procedure, lacrimal system",33.61669673,Present in Autoproposal
+C9048,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",C9034,"INJECTION, DEXAMETHASONE 9%, INTRAOCULAR, 1 MCG",32.07705034,Present in Autoproposal
+C9048,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",68510,Biopsy of lacrimal gland,31.83675075,Present in Autoproposal
+C9048,"Dexamethasone, lacrimal ophthalmic insert, 0.1 mg",K0513,DEXAMETHASONE INH SOL U D,31.39002857,Present in Autoproposal
+C9049,"Injection, tagraxofusp-erzs, 10 mcg ",C9245,"INJECTION, ROMIPLOSTIM, 10 MCG",69.57239527,Present in Autoproposal
+C9049,"Injection, tagraxofusp-erzs, 10 mcg ",J3110,"INJECTION, TERIPARATIDE, 10 MCG",68.139104,Present in Autoproposal
+C9049,"Injection, tagraxofusp-erzs, 10 mcg ",Q2020,"INJECTION, HISTRELIN ACETATE, 10 MCG",62.78626729,Present in Autoproposal
+C9049,"Injection, tagraxofusp-erzs, 10 mcg ",J0636,"INJECTION, CALCITRIOL, 0.1 MCG",53.16856199,Present in Autoproposal
+C9049,"Injection, tagraxofusp-erzs, 10 mcg ",C9449,"INJECTION, BLINATUMOMAB, 1 MCG",53.16856199,Present in Autoproposal
+C9049,"Injection, tagraxofusp-erzs, 10 mcg ",J2501,"INJECTION, PARICALCITOL, 1 MCG",53.16856199,Present in Autoproposal
+C9049,"Injection, tagraxofusp-erzs, 10 mcg ",J2500,"INJECTION, PARICALCITOL, 5 MCG",53.16856199,Present in Autoproposal
+C9049,"Injection, tagraxofusp-erzs, 10 mcg ",J1270,"INJECTION, DOXERCALCIFEROL, 1 MCG",51.89946015,Present in Autoproposal
+C9049,"Injection, tagraxofusp-erzs, 10 mcg ",C9034,"INJECTION, DEXAMETHASONE 9%, INTRAOCULAR, 1 MCG",50.05140075,Present in Autoproposal
+C9049,"Injection, tagraxofusp-erzs, 10 mcg ",S0148,"INJECTION, PEGYLATED INTERFERON ALFA-2B, 10 MCG",49.85261165,Present in Autoproposal
+C9050,"Injection, emapalumab-lzsg, 1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",52.56638627,Present in Autoproposal
+C9050,"Injection, emapalumab-lzsg, 1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",52.56638627,Present in Autoproposal
+C9050,"Injection, emapalumab-lzsg, 1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",52.56638627,Present in Autoproposal
+C9050,"Injection, emapalumab-lzsg, 1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",52.56638627,Present in Autoproposal
+C9050,"Injection, emapalumab-lzsg, 1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",52.56638627,Present in Autoproposal
+C9050,"Injection, emapalumab-lzsg, 1 mg",C9261,"INJECTION, USTEKINUMAB, 1 MG",51.93477136,Present in Autoproposal
+C9050,"Injection, emapalumab-lzsg, 1 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",51.93477136,Present in Autoproposal
+C9050,"Injection, emapalumab-lzsg, 1 mg",J1325,"INJECTION, EPOPROSTENOL, 0.5 MG",51.93477136,Present in Autoproposal
+C9050,"Injection, emapalumab-lzsg, 1 mg",J0202,"INJECTION, ALEMTUZUMAB, 1 MG",51.93477136,Present in Autoproposal
+C9050,"Injection, emapalumab-lzsg, 1 mg",Q9979,"INJECTION, ALEMTUZUMAB, 1 MG",51.93477136,Present in Autoproposal
+C9051,"Injection, omadacycline, 1 mg",J2505,"INJECTION, PEGFILGRASTIM, 6 MG",52.56638627,Present in Autoproposal
+C9051,"Injection, omadacycline, 1 mg",S0135,"INJECTION, PEGFILGRASTIM, 6 MG",52.56638627,Present in Autoproposal
+C9051,"Injection, omadacycline, 1 mg",J9280,"INJECTION, MITOMYCIN, 5 MG",52.56638627,Present in Autoproposal
+C9051,"Injection, omadacycline, 1 mg",J9267,"INJECTION, PACLITAXEL, 1 MG",52.56638627,Present in Autoproposal
+C9051,"Injection, omadacycline, 1 mg",Q4053,"INJECTION, PEGFILGRASTIM, 1 MG",52.56638627,Present in Autoproposal
+C9051,"Injection, omadacycline, 1 mg",C9261,"INJECTION, USTEKINUMAB, 1 MG",51.93477136,Present in Autoproposal
+C9051,"Injection, omadacycline, 1 mg",Q2046,"INJECTION, AFLIBERCEPT, 1 MG",51.93477136,Present in Autoproposal
+C9051,"Injection, omadacycline, 1 mg",J1325,"INJECTION, EPOPROSTENOL, 0.5 MG",51.93477136,Present in Autoproposal
+C9051,"Injection, omadacycline, 1 mg",J0202,"INJECTION, ALEMTUZUMAB, 1 MG",51.93477136,Present in Autoproposal
+C9051,"Injection, omadacycline, 1 mg",Q9979,"INJECTION, ALEMTUZUMAB, 1 MG",51.93477136,Present in Autoproposal
+C9052,"Injection, ravulizumab-cwvz, 10 mg",J9035,"INJECTION, BEVACIZUMAB, 10 MG",64.39268913,Present in Autoproposal
+C9052,"Injection, ravulizumab-cwvz, 10 mg",J0475,"INJECTION, BACLOFEN, 10 MG",64.39268913,Present in Autoproposal
+C9052,"Injection, ravulizumab-cwvz, 10 mg",J9150,"INJECTION, DAUNORUBICIN, 10 MG",63.76470214,Present in Autoproposal
+C9052,"Injection, ravulizumab-cwvz, 10 mg",J9181,"INJECTION, ETOPOSIDE, 10 MG",63.76470214,Present in Autoproposal
+C9052,"Injection, ravulizumab-cwvz, 10 mg",J9312,"INJECTION, RITUXIMAB, 10 MG",63.76470214,Present in Autoproposal
+C9052,"Injection, ravulizumab-cwvz, 10 mg",J9010,"INJECTION, ALEMTUZUMAB, 10 MG",63.76470214,Present in Autoproposal
+C9052,"Injection, ravulizumab-cwvz, 10 mg",C9283,"INJECTION, ACETAMINOPHEN, 10 MG",63.03231336,Present in Autoproposal
+C9052,"Injection, ravulizumab-cwvz, 10 mg",J0131,"INJECTION, ACETAMINOPHEN, 10 MG",63.03231336,Present in Autoproposal
+C9052,"Injection, ravulizumab-cwvz, 10 mg",C9238,"INJECTION, LEVETIRACETAM, 10 MG",62.15122862,Present in Autoproposal
+C9052,"Injection, ravulizumab-cwvz, 10 mg",J0128,"INJECTION, ABARELIX, 10 MG",62.15122862,Present in Autoproposal
+C9756,Intraoperative near-infrared fluorescence lymphatic mapping of lymph node(s) (sentinel or tumor draining) with administration of indocyanine green (ICG) (List separately in addition to code for primary procedure)  ,38900,"Intraoperative identification (eg, mapping) of sentinel lymph node(s) includes injection of non-radioactive dye, when performed (List separately in addition to code for primary procedure)",49.268975,Present in Autoproposal
+C9756,Intraoperative near-infrared fluorescence lymphatic mapping of lymph node(s) (sentinel or tumor draining) with administration of indocyanine green (ICG) (List separately in addition to code for primary procedure)  ,G8878,SENTINEL LYMPH NODE BIOPSY PROCEDURE PERFORMED,38.32900229,Present in Autoproposal
+C9756,Intraoperative near-infrared fluorescence lymphatic mapping of lymph node(s) (sentinel or tumor draining) with administration of indocyanine green (ICG) (List separately in addition to code for primary procedure)  ,48400,Injection procedure for intraoperative pancreatography (List separately in addition to code for primary procedure),32.7361711,Present in Autoproposal
+C9756,Intraoperative near-infrared fluorescence lymphatic mapping of lymph node(s) (sentinel or tumor draining) with administration of indocyanine green (ICG) (List separately in addition to code for primary procedure)  ,G8882,"SENTINEL LYMPH NODE BIOPSY PROCEDURE NOT PERFORMED, REASON NOT GIVEN",31.10725709,Present in Autoproposal
+C9756,Intraoperative near-infrared fluorescence lymphatic mapping of lymph node(s) (sentinel or tumor draining) with administration of indocyanine green (ICG) (List separately in addition to code for primary procedure)  ,44701,Intraoperative colonic lavage (List separately in addition to code for primary procedure),30.61012577,Present in Autoproposal
+C9756,Intraoperative near-infrared fluorescence lymphatic mapping of lymph node(s) (sentinel or tumor draining) with administration of indocyanine green (ICG) (List separately in addition to code for primary procedure)  ,0443T,"Real-time spectral analysis of prostate tissue by fluorescence spectroscopy, including imaging guidance (List separately in addition to code for primary procedure)",29.16793849,Present in Autoproposal
+C9756,Intraoperative near-infrared fluorescence lymphatic mapping of lymph node(s) (sentinel or tumor draining) with administration of indocyanine green (ICG) (List separately in addition to code for primary procedure)  ,95920,"Intraoperative neurophysiology testing, per hour (List separately in addition to code for primary procedure)",29.07316012,Present in Autoproposal
+C9756,Intraoperative near-infrared fluorescence lymphatic mapping of lymph node(s) (sentinel or tumor draining) with administration of indocyanine green (ICG) (List separately in addition to code for primary procedure)  ,93613,Intracardiac electrophysiologic 3-dimensional mapping (List separately in addition to code for primary procedure),28.69252652,Present in Autoproposal
+C9756,Intraoperative near-infrared fluorescence lymphatic mapping of lymph node(s) (sentinel or tumor draining) with administration of indocyanine green (ICG) (List separately in addition to code for primary procedure)  ,47550,"Biliary endoscopy, intraoperative (choledochoscopy) (List separately in addition to code for primary procedure)",28.3475036,Present in Autoproposal
+C9756,Intraoperative near-infrared fluorescence lymphatic mapping of lymph node(s) (sentinel or tumor draining) with administration of indocyanine green (ICG) (List separately in addition to code for primary procedure)  ,75565,Cardiac magnetic resonance imaging for velocity flow mapping (List separately in addition to code for primary procedure),27.80784637,Present in Autoproposal
